@@ -77,12 +77,12 @@ Susanna,person,"Suſana, Suſanna, Suſanne",Susanna,Baptised 23 March 1794; con
 Louise,person,"Louise, Louiſe, Luise",Louise,Baptised 25 March 1795; confirmed 2 March 1796.,A363596_318
 Stoffel Grunewald,person,"Stoffel Grunewald, Grunewald",Stoffel Grunewald,Neighbouring farmer.,A363596_128
 Claude,person,"H. Claude, Hr. Claude",Mr Claude,"Bought the land near the mission where young Teunis had his place, 1795.",A363596_874
-Metz,person,Br. Metz,Br. Metz,"Moravian travelling through the Cape on a Danish ship, April 1795.",A363596_963
+Metz,person,"Br. Metz, Br. Motz (A363349)",Br. Metz,"Moravian travelling through the Cape on a Danish ship, April 1795. The Dutch diary A363349 has Motz.",A363596_963
 Woltersdorf,person,"Schwr. Woltersdorfin, Schw. Woltersdorfs",Sister Woltersdorf,"Moravian travelling through the Cape with her daughters, April 1795.",A363596_963
 Schmidt,person,"Vater Schmidt, H. Schmidt, Mart. Schmidt, M. Schmidt, Martinus Schmidt, Martin Schmidt",Father Schmidt,"Friend of the mission in Cape Town, with whom the brethren lodged.",A363596_1082
 Andreas Otto,person,"Andreas Otto, Feld⸗Corporal Otto",Andreas Otto,Field corporal of the mission's ward; probably the Field Cornet Otto of A363597.,A363595_14609
 Pieter Dohi,person,"Pieter Dohi, Pieter Koki (?), Peter Toÿ, Daniel Jooÿ (A363349)",Pieter Dohi,"Friendly neighbouring farmer. His brother-in-law Jan Dohi and Daniel Dohi also appear. The spelling may be a misreading; Koki in A363596 entry 07 is probably the same name, and Baas Peter Toÿ of October 1794 (A363595 line 11551) probably the same man.",A363595_11551
-Holzhäuser,person,Holzhäuſer,Holzhäuser,Friend of the mission who delivered Bisani's order of 29 July 1795.,A363596_2012
+Holzhäuser,person,"Holzhäuſer, Holzhuizen, Holzhuizer (A363349)",Holzhäuser,Friend of the mission who delivered Bisani's order of 29 July 1795.,A363596_2012
 Bisani,person,"Biſani, Pisani",Bisani (Pisani),"Commandant among the Nationals who ordered the missionaries to leave, July 1795; imprisoned at the Cape in August.",A363596_2059
 Abraham Josias Sluysken,person,"H. Comiſsarius, Edlen Herrn Sluysken, Gouverneur, Edle Herr, Comiſſaris Sluyſke",the Commissioner; Edle Heer Sluysken,Commissioner and head of the Cape government from 1793 until the British occupation of September 1795. A363595 calls him the Governor and the Edle Heer from October 1794 and names him in January 1795 (line 13683).,A363595_10858
 Robert Jacob Gordon,person,Comandanten H. Gordon,Commandant Gordon,Commander of the Dutch garrison at the Cape.,A363596_1116
@@ -200,3 +200,23 @@ Eckstein,place,plaats Eckstein,Eckstein,"Farm of the Frenchman Linksank (Zinkhan
 Cape Flats,place,Kaapſche Heide,the Cape Flats,"The sandy flats between Hottentots Holland and Cape Town, four hours' ride without a house (A363349, 29 September 1794).",A363349_5701
 snaphaan,term,Snaphaan,flintlock,A flintlock musket.,A363349_446
 spoelkom,term,Spoelkom,bowl,"A slop basin or rinsing bowl, used as a drinking measure for wine at the harvest. The German diary A363595 has *Pullumpen*.",A363349_6007
+Hoffman,person,"Hoffmann, Hofmann, Heer Hoffman (A363349)",Mr Hoffman,"Gentleman of Stellenbosch who had been a privy councillor (Geheime Raad). Visited the mission with Mr Clüde and Andreas Otto on 18 February 1795, and with Mr Claude and Otto on 22 November 1795.",A363595_14608
+Dimeni,person,Dimeni,Dimeni,"Farmer given a place on the Bok River about 1794, on condition that he would not drive the Khoekhoe away from it; his servant drove off a Khoekhoe man and his cattle in February 1795.",A363595_14485
+Molman,person,"Jan Molman, Jan Cholman, Molman (A363349)",Molman,"Farmer about 8 miles from the mission, March 1795.",A363596_157
+Herz,person,"Klerk, Heiziger, Boer Herz (A363349)",the farmer Herz,"Farmer living close to Swellendam, a Jew by birth baptised about 1793, whose wife was a freed slave; came to hire Khoekhoe workers in March 1795. The two German copies name him Klerk and Heiziger. Compare Horz.",A363596_294
+Stael,person,"Br. Staal, Br. Stael (A363349)",Brother Stael,Moravian who sent a letter to the brethren from the Cape in April 1795; apparently not among the travellers they met there.,A363596_963
+Licken,person,"Licken, Licko (A363349)",Licken,"Friend of the brethren on the road from Cape Town, very weak in April 1795. Not identified.",A363596_1152
+Welksel,person,"Hendr. Welksel, Hendrik Weltſel (A363349)",Hendrik Welksel,Friend of the mission who came with Holzhäuser on 29 July 1795 to deliver Bisani's order.,A363596_2052
+Van der Wad,person,"Van der Wad, van der Wad (A363349)",Van der Wad,Commander among the Nationals who met the brethren in Cape Town on 5 August 1795 and assured them that they could go home; perhaps Van der Walt.,A363596_2227
+La Bort,person,"La Bort, la Bort (A363349)",La Bort,Commandant of the Nationals near Cape Town in August 1795; perhaps Delport.,A363596_2245
+David (1795),person,David,David,Baptised 17 May 1795.,A363596_1328
+Abraham (1795),person,Abraham,Abraham,Baptised 17 May 1795; called up to the Cape in September 1795. His father lived at the mission.,A363596_1328
+Juliana,person,Juliana,Juliana,Baptised 17 May 1795.,A363596_1328
+Rosina,person,"Rosina, Roſina",Rosina,Baptised 17 May 1795.,A363596_1329
+Johanna,person,"Johana, Johanna",Johanna,Baptised 17 May 1795.,A363596_1329
+Carolina,person,Carolina,Carolina,Baptised 17 May 1795.,A363596_1329
+Isaac,person,"Isaac, Iſaac, Isaak (A363349)",Isaac,"Baptised on the second day of Pentecost, 25 May 1795; called up to the Cape in June 1795.",A363596_1370
+Margaretha,person,Margaretha,Margaretha,Baptised 1 November 1795; her husband was bitten by a poisonous creature on 16 November 1795.,A363596_2720
+Alida,person,"Alida, Alide (A363349)",Alida,Baptised 1 November 1795.,A363596_2720
+Esther,person,Esther,Esther,Baptised 1 November 1795.,A363596_2720
+kom,term,Kom,basin,"A basin or hollow by the mission house, dug out and set round with stones in February 1795; perhaps a dam or pool. The German diary A363595 has the unclear *Dſchanna*.",A363349_8746
