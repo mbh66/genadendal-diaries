@@ -7,7 +7,11 @@ It does two jobs around the translation step:
 
   packets  Write one source packet per entry to work/<file>/: the normalised
            German as whole sentences, each with its line IDs and page, and the
-           diplomatic transcription of the same lines for checking.
+           diplomatic transcription of the same lines for checking. For the
+           Dutch file A363349 the packet is the other way round: the Dutch
+           diplomatic column by sentence, and the German translation in the
+           normalised column line by line (--column chooses; the default
+           follows the file).
 
   assemble Wrap each translated body in work/<file>/en/<entry>.md with the
            front matter from entries.csv and write it to translations/en/<file>/.
@@ -18,6 +22,7 @@ It does two jobs around the translation step:
 
 Usage:
   python scripts/translate.py packets A363597
+  python scripts/translate.py packets A363349 --column diplomatic
   python scripts/translate.py assemble A363597 --method "..." --date 2026-09-25
   python scripts/translate.py check A363597
 """
@@ -31,12 +36,31 @@ from segment import PB, sentences, tokens  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 EDITION = "Garcés Pérez and Lasch, Zenodo, doi:10.5281/zenodo.18095167, version 0.3"
+DUTCH = {"A363349"}  # manuscript in Dutch; its "normalised" column is a German translation
+SOURCE_COLUMN = {
+    "normalised": "normalised German, checked against the diplomatic transcription",
+    "diplomatic": "Dutch diplomatic transcription, checked against the German of the normalised column",
+}
 REQUIRED = ["title", "source_file", "entry", "period", "first_line", "last_line",
             "source_column", "method", "review_status", "licence"]
 
 
 def load_rows(stem):
     return list(csv.DictReader(open(ROOT / "data" / f"{stem}.csv", encoding="utf-8")))
+
+
+def body_start(rows):
+    """Index of the first page marker. A363349 opens with a register of its
+    diaries whose line IDs repeat those of the headings they point to; the
+    register is not manuscript text, and line IDs are looked up after it."""
+    for i, r in enumerate(rows):
+        if r["normalised"].startswith("<pb"):
+            return i
+    return 0
+
+
+def locate(ids, line_id, start):
+    return ids.index(line_id, start)
 
 
 def load_entries(stem):
@@ -46,7 +70,8 @@ def load_entries(stem):
 
 def slice_rows(rows, first, last, with_page=False):
     ids = [r["id"] for r in rows]
-    a, b = ids.index(first), ids.index(last)
+    start = body_start(rows)
+    a, b = locate(ids, first, start), locate(ids, last, start)
     part = rows[a: b + 1]
     if with_page:  # prepend the page marker in force, so the first sentence knows its page
         k = a
@@ -57,20 +82,30 @@ def slice_rows(rows, first, last, with_page=False):
     return part
 
 
-def packets(stem):
+def default_column(stem):
+    return "diplomatic" if stem in DUTCH else "normalised"
+
+
+def packets(stem, column=None):
+    column = column or default_column(stem)
+    other = "normalised" if column == "diplomatic" else "diplomatic"
+    heads = {("normalised", False): "Normalised German", ("diplomatic", False): "Diplomatic transcription",
+             ("normalised", True): "German translation (normalised column)",
+             ("diplomatic", True): "Dutch diplomatic transcription"}
+    dutch = stem in DUTCH
     rows = load_rows(stem)
     out = ROOT / "work" / stem
     out.mkdir(parents=True, exist_ok=True)
     for e in load_entries(stem):
         part = slice_rows(rows, e["first_line"], e["last_line"], with_page=True)
         lines = [f"# {e['entry']} {e['title']} ({e['first_line']} to {e['last_line']})", "",
-                 "## Normalised German, by sentence", ""]
-        for i, (s, a, b) in enumerate(sentences(tokens(part)), 1):
+                 f"## {heads[column, dutch]}, by sentence", ""]
+        for i, (s, a, b) in enumerate(sentences(tokens(part, column), column == "diplomatic" and dutch), 1):
             lines.append(f"{i}\t{a[0].split('_')[-1]}-{b[0].split('_')[-1]}\tp.{a[1]}\t{s}")
-        lines += ["", "## Diplomatic transcription, by line", ""]
+        lines += ["", f"## {heads[other, dutch]}, by line", ""]
         for r in part:
-            if not PB.search(r["diplomatic"]):
-                lines.append(f"{r['id'].split('_')[-1]}\t{r['diplomatic']}")
+            if not PB.search(r[other]):
+                lines.append(f"{r['id'].split('_')[-1]}\t{r[other]}")
         (out / f"{e['entry']}.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"packets written to {out}")
 
@@ -91,7 +126,8 @@ def slug(title):
     return re.sub(r"[^a-z0-9]+", "-", title.lower().replace("'", "")).strip("-")
 
 
-def assemble(stem, method, date, force=False):
+def assemble(stem, method, date, force=False, column=None):
+    column = column or default_column(stem)
     rows = load_rows(stem)
     src = ROOT / "work" / stem / "en"
     dst = ROOT / "translations" / "en" / stem
@@ -109,7 +145,7 @@ def assemble(stem, method, date, force=False):
             f"first_line: {e['first_line']}",
             f"last_line: {e['last_line']}",
             f'pages: "{pages[0]} to {pages[-1]}"' if len(pages) > 1 else f'pages: "{pages[0]}"',
-            "source_column: normalised German, checked against the diplomatic transcription",
+            f"source_column: {SOURCE_COLUMN[column]}",
             f'source_edition: "{EDITION}"',
             f'method: "{method}"',
             f"translated: {date}",
@@ -145,8 +181,9 @@ def front_matter(path):
 def check(stem):
     rows = load_rows(stem)
     ids = [r["id"] for r in rows]
+    start = body_start(rows)
     text_idx = {i for i, r in enumerate(rows)
-                if r["normalised"].strip() and not r["normalised"].startswith("<pb")}
+                if i >= start and r["normalised"].strip() and not r["normalised"].startswith("<pb")}
     covered = set()
     problems = 0
     entries = {e["entry"]: e for e in load_entries(stem)}
@@ -163,12 +200,12 @@ def check(stem):
             print(f"{f.name}: entry {meta.get('entry')} not in entries.csv"); problems += 1; continue
         if (meta.get("first_line"), meta.get("last_line")) != (e["first_line"], e["last_line"]):
             print(f"{f.name}: line range differs from entries.csv"); problems += 1
-        a, b = ids.index(e["first_line"]), ids.index(e["last_line"])
+        a, b = locate(ids, e["first_line"], start), locate(ids, e["last_line"], start)
         covered.update(range(a, b + 1))
         for ref in re.findall(r"<!-- lines (\w+)-(\w+)", body):
             for x in ref:
                 full = f"NL-UtHUA_{stem}_{x}"
-                if full not in ids or not a <= ids.index(full) <= b:
+                if full not in ids[start:] or not a <= locate(ids, full, start) <= b:
                     print(f"{f.name}: passage marker {x} outside the entry"); problems += 1
     gaps = sorted(text_idx - covered)
     if gaps:
@@ -186,10 +223,12 @@ if __name__ == "__main__":
     ap.add_argument("--method", default="")
     ap.add_argument("--date", default="")
     ap.add_argument("--force", action="store_true")
+    ap.add_argument("--column", choices=["normalised", "diplomatic"],
+                    help="column to translate from; default diplomatic for A363349, else normalised")
     a = ap.parse_args()
     if a.cmd == "packets":
-        packets(a.stem)
+        packets(a.stem, a.column)
     elif a.cmd == "assemble":
-        assemble(a.stem, a.method, a.date, a.force)
+        assemble(a.stem, a.method, a.date, a.force, a.column)
     else:
         sys.exit(1 if check(a.stem) else 0)

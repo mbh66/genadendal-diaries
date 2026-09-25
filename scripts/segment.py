@@ -23,6 +23,12 @@ PB = re.compile(r'<pb n="([^"]+)"')
 ORDINAL = re.compile(r"(?<![\d.])\d{1,2}\.$")
 ABBREV = re.compile(r"(?:^|[\s(])(?:Br|Brr|Geschw|v|Joh|Dan|Chr|[A-ZÄÖÜ])\.$")
 SENT_END = re.compile(r'([.!?][“”"‘’)]*)(\s+)(?=[„“"‘(]?[A-ZÄÖÜ0-9–—])')
+# The Dutch diplomatic column of A363349: dated entries start "d 5 Apr." or "d. 14' Julÿ",
+# words break at line end with "⸗" or "=", and months and titles are abbreviated.
+DUTCH_ABBREV = re.compile(r"(?:^|[\s(])(?:[Bb]r|[Bb]rs|[Zz]rs|Pr|Hr|Hrn|[Dd]|[A-Z]|Apr|Aug|Sept|Septbr|Sep|"
+                          r"Oct|Octobr|Nov|Novemb|Dec|Decbr|Jan|Febr|Mrt)\.$")
+DUTCH_SENT_END = re.compile(r'([.!?:][“”"‘’)]*)(\s+)(?=[„“"‘(]?(?:[A-ZÄÖÜ0-9–—]|[Dd][.,:]?\s?\d))')
+PAGE_NO = re.compile(r"^\d{1,3}\.?$")
 
 
 def norm_token(t):
@@ -34,6 +40,7 @@ def tokens(rows, col="normalised"):
     page = None
     out = []
     just_broke = False
+    dutch = col == "diplomatic"
     for r in rows:
         t = r[col].strip()
         m = PB.search(t)
@@ -43,6 +50,10 @@ def tokens(rows, col="normalised"):
             continue
         if not t:
             continue
+        if dutch and just_broke and PAGE_NO.match(t):
+            continue  # the manuscript's own page number at the head of a page
+        if dutch:
+            t = re.sub(r"[⸗=]$", "-", t)
         words = t.split()
         if just_broke and out and words:
             prev, first = out[-1][0], words[0]
@@ -56,7 +67,7 @@ def tokens(rows, col="normalised"):
                 words = words[1:]
         just_broke = False
         for w in words:
-            if out and out[-1][0].endswith("-") and w[:1].islower():
+            if out and out[-1][0].endswith("-") and (w[:1].islower() or dutch):
                 prev, pid, ppage = out.pop()
                 out.append((prev[:-1] + w, pid, ppage))  # keep the start line's ID
                 continue
@@ -64,7 +75,8 @@ def tokens(rows, col="normalised"):
     return out
 
 
-def sentences(toks):
+def sentences(toks, dutch=False):
+    sent_end, abbrev = (DUTCH_SENT_END, DUTCH_ABBREV) if dutch else (SENT_END, ABBREV)
     s = " ".join(w for w, _, _ in toks)
     char_owner = []  # the (line_id, page) that owns each character of s
     for w, lid, page in toks:
@@ -72,11 +84,11 @@ def sentences(toks):
             char_owner.append(char_owner[-1])
         char_owner.extend([(lid, page)] * len(w))
     start = 0
-    for m in SENT_END.finditer(s):
+    for m in sent_end.finditer(s):
         end = m.end(1)
         if ORDINAL.search(s[max(0, end - 4):end]):
             continue  # "am 2. Mai", "das 3. Jahr": an ordinal, not a sentence end
-        if ABBREV.search(s[max(0, end - 6):end]):
+        if abbrev.search(s[max(0, end - (8 if dutch else 6)):end]):
             continue  # "Br. Rose", "Carl v. Forestier", "Joh. Christian"
         yield s[start:end], char_owner[start], char_owner[end - 1]
         start = m.end()
