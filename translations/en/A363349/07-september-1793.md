@@ -76,7 +76,7 @@ On the 28th we heard an unpleasant rumour of an impending revolt among the Hotte
 3. *het perſoneele ſpreeken*: the individual speaking; see *Sprechen* in the glossary.
 4. The German diary has "on 19 August". To be checked against the images.
 5. *Overleed zij*: "she died". The Dutch uses a plain word here; the German diary has *verschied*, "passed away".
-6. Line 3156 is missing. The transcription runs *en zij beeter deeden dat* / *gevolgd; zoo ook nog eene andere Vermaaning*. The German diary has "they could use the poles for something else. All this was followed". The words in square brackets are supplied from there.
+6. Line 3156 is missing. The transcription runs *en zij beeter deeden dat* / *gevolgd; zoo ook nog eene andere Vermaaning*. The German diary has "they could use the poles for something else. All this was followed". The words in square brackets are supplied from there. The repeat of this page in entry 11 keeps the lost line (line 3940): *Hout tot iets anders te gebruiken. Dit alles werd op-*, which confirms the reading.
 7. *er werd slegts een Bock geslagt*: "only a goat was slaughtered". The German diary has "only one loaf was cut". One of the two is probably a misreading. To be checked against the images.
 8. *van den zal:* / *Schmidt*: *zal.* for *zaliger*, "the late", as in the German diary. Georg Schmidt left the Cape in 1744.
 9. *Comiſſarius van de Blettermans Baaij*: the Company's official at Plettenberg Bay. See the glossary.
@@ -85,9 +85,9 @@ On the 28th we heard an unpleasant rumour of an impending revolt among the Hotte
 12. The Dutch gives only the start and end of Brother Schwinn's journey. The German diary has a long account of the crossing of the rivers and of the Houhoek pass.
 13. The transcription reads *van onzen Vriend m...* at the foot of page 52a; the German diary has "our old friend Martinus Schmidt".
 14. *de Commendant*: the German diary has *Landeshauptmann*, not identified (A363595 entry 13, note 7).
-15. Line 3238 is missing. The transcription runs *die mij radde, om ten eersten mijne op-* / *ken*, probably *mijne op[wagting bij den Gouverneur te maa]ken*. The German diary has "advised me to pay my respects at once to the new Governor". The Governor was probably Abraham Josias Sluysken, who took office in September 1793; see the glossary.
+15. Line 3238 is missing. The transcription runs *die mij radde, om ten eersten mijne op-* / *ken*, probably *mijne op[wagting bij den Gouverneur te maa]ken*. The German diary has "advised me to pay my respects at once to the new Governor". The Governor was probably Abraham Josias Sluysken, who took office in September 1793; see the glossary. The repeat of this page in entry 11 keeps the lost line (line 4022): *wachting bij den nieuwen Gouverneur te gaen maa-*, which confirms the reading.
 16. The transcription reads *met twee van deezen van hun had ik aangeſproken*, which is garbled. The German diary has "with two of them, Mr Colver and Mr Fleck, I had good conversations".
 17. *Wijven*: "women"; the word was not yet disparaging in eighteenth-century Dutch.
 18. The German diary says there were 10 candidates and that "ten" declared themselves moved (A363595 entry 13, note 12). The Dutch has 4 and two, which fits the number of candidates in the diary so far.
 19. *den Leeuwenberg*: Lion's Hill (Signal Hill) above Cape Town, from which a gun was fired when ships were sighted.
-20. Line 3320 is missing. The transcription runs *Baas Tennis vermaande ons ook* / *te houden*. The words in square brackets are supplied from the sense. *Tennis* is the transcription's spelling of Teunis in this diary.
+20. Line 3320 is missing. The transcription runs *Baas Tennis vermaande ons ook* / *te houden*. The words in square brackets are supplied from the sense. *Tennis* is the transcription's spelling of Teunis in this diary. The repeat of this page in entry 11 keeps the lost line (line 4104): *om een Waakzaam oog op onze Hottentotten*, which confirms the reading.

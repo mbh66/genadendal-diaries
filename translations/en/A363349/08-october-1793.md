@@ -51,6 +51,6 @@ On the 31st we had a visit from a true friend from Cape Town, namely the watchma
 2. *Omtrent deezen Tijd wij veel werk*: a verb (*hadden*) is missing in the transcription.
 3. The German diary dates this speaking *Den 6ten*, out of order after the 9th (A363595 entry 14, note 2). The Dutch has *Den 9ten* in its proper place, which settles the date.
 4. *om het daartoe te leveren*: "to supply it for it". The German diary has "to supply the timber"; the word *hout* may be lost. The words in square brackets are supplied from there.
-5. Line 3402 is missing; the transcription runs *de andere van Broederen in Herrnhut* / *Blijdſchap kan zich niemand voorstellen*. The German diary adds letters from Zeist, Amsterdam and Labrador, which were probably on the lost line.
+5. Line 3402 is missing; the transcription runs *de andere van Broederen in Herrnhut* / *Blijdſchap kan zich niemand voorstellen*. The German diary adds letters from Zeist, Amsterdam and Labrador, which were probably on the lost line. The repeat of this page in entry 11 keeps the lost line (line 4185): *Zeist en Amsterdam, ja zelfs uit Terra Labrador. Onze*, which confirms the reading.
 6. *de Groenlandſche Geſchiedenis*: probably David Cranz, *Historie von Grönland* (1765), with its continuation.
 7. *de Horlogiemaaker Andreas*: see Andres in the glossary.
