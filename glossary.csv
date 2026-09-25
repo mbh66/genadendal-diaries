@@ -26,7 +26,7 @@ Cape Town,place,"Kapstadt, Capstadt, die Kap, das Kap, Hauptstadt",Cape Town; th
 Stellenbosch,place,Stellenbosch,Stellenbosch,,A363597_364
 Swellendam,place,"Schwellendam, Swellendam",Swellendam,,A363597_880
 the camp,place,"Camp, Lager an den Weinbergen",the camp; the camp at the Wynberg,"Military camp near Cape Town, probably at Wynberg.",A363597_00049
-Roodezand,place,Roodesand,Roodezand,Present-day Tulbagh.,A363597_1605
+Roodezand,place,"Roodesand, Roode Zand, Rothensand (A363349)",Roodezand,Present-day Tulbagh.,A363597_1605
 Bethelsdorp,place,Bethelsdorp,Bethelsdorp,"London Missionary Society station of Dr van der Kemp, near present-day Port Elizabeth (Gqeberha).",A363597_1954
 Zeist,place,Zeist,Zeist,Moravian settlement in the Netherlands; the Dutch mission society corresponded from here.,A363597_316
 Berthelsdorf,place,Berthelsdorf,Berthelsdorf,"Seat of the Moravian Unity Elders' Conference, near Herrnhut.",A363597_1495
@@ -67,7 +67,7 @@ Olifants River,place,"Olivant Rivier, Olivans Revier",Olifants River,,A363596_20
 False Bay,place,"Fals=bay, Bay Fals",False Bay,,A363596_1122
 Muizenberg,place,"Meuſbay, Meusbay",Muizenberg,On False Bay; scene of the British attack of 7 August 1795.,A363596_2276
 the warm bath,place,"warmen Bade, warmen Bad",the warm bath,"The hot springs at present-day Caledon, with a government superintendent.",A363596_989
-Palmiet River,place,"Palmito=Fluß, Palmite⸗Revier, Palemitts⸗Revier",Palmiet River,,A363595_318
+Palmiet River,place,"Palmito=Fluß, Palmite⸗Revier, Palemitts⸗Revier, Perlemitte Rivier (A363349)",Palmiet River,,A363595_318
 Batavia,place,Batavia,Batavia,"Present-day Jakarta, seat of the Dutch East India Company in Asia.",A363596_1456
 Neuwied,place,Neuwied,Neuwied,Moravian settlement on the Rhine.,A363596_1688
 Teunis,person,"Baas Teunis, Juffr. Teunis, Juffrou Teunis, Frau Teunis, der junge Teunis, H. Teunis",Baas Teunis; Juffrouw Teunis; young Teunis,"Neighbouring farmer living at 'the post' near the mission, hostile to it in 1795–96; also his wife and his son.",A363596_00021
@@ -81,12 +81,12 @@ Metz,person,Br. Metz,Br. Metz,"Moravian travelling through the Cape on a Danish 
 Woltersdorf,person,"Schwr. Woltersdorfin, Schw. Woltersdorfs",Sister Woltersdorf,"Moravian travelling through the Cape with her daughters, April 1795.",A363596_963
 Schmidt,person,"Vater Schmidt, H. Schmidt, Mart. Schmidt, M. Schmidt, Martinus Schmidt, Martin Schmidt",Father Schmidt,"Friend of the mission in Cape Town, with whom the brethren lodged.",A363596_1082
 Andreas Otto,person,"Andreas Otto, Feld⸗Corporal Otto",Andreas Otto,Field corporal of the mission's ward; probably the Field Cornet Otto of A363597.,A363595_14609
-Pieter Dohi,person,"Pieter Dohi, Pieter Koki (?), Peter Toÿ",Pieter Dohi,"Friendly neighbouring farmer. His brother-in-law Jan Dohi and Daniel Dohi also appear. The spelling may be a misreading; Koki in A363596 entry 07 is probably the same name, and Baas Peter Toÿ of October 1794 (A363595 line 11551) probably the same man.",A363595_11551
+Pieter Dohi,person,"Pieter Dohi, Pieter Koki (?), Peter Toÿ, Daniel Jooÿ (A363349)",Pieter Dohi,"Friendly neighbouring farmer. His brother-in-law Jan Dohi and Daniel Dohi also appear. The spelling may be a misreading; Koki in A363596 entry 07 is probably the same name, and Baas Peter Toÿ of October 1794 (A363595 line 11551) probably the same man.",A363595_11551
 Holzhäuser,person,Holzhäuſer,Holzhäuser,Friend of the mission who delivered Bisani's order of 29 July 1795.,A363596_2012
 Bisani,person,"Biſani, Pisani",Bisani (Pisani),"Commandant among the Nationals who ordered the missionaries to leave, July 1795; imprisoned at the Cape in August.",A363596_2059
 Abraham Josias Sluysken,person,"H. Comiſsarius, Edlen Herrn Sluysken, Gouverneur, Edle Herr, Comiſſaris Sluyſke",the Commissioner; Edle Heer Sluysken,Commissioner and head of the Cape government from 1793 until the British occupation of September 1795. A363595 calls him the Governor and the Edle Heer from October 1794 and names him in January 1795 (line 13683).,A363595_10858
 Robert Jacob Gordon,person,Comandanten H. Gordon,Commandant Gordon,Commander of the Dutch garrison at the Cape.,A363596_1116
-Fiscal van Ryneveld,person,"Fiſcaal Reinveld, Fiscal Reinefeld",the Fiscal Reinveld,"Probably Willem Stephanus van Ryneveld, Fiscal at the Cape.",A363595_14027
+Fiscal van Ryneveld,person,"Fiſcaal Reinveld, Fiscal Reinefeld, Heer Fiſcaal Reinefeld (A363349)",the Fiscal Reinveld,"Probably Willem Stephanus van Ryneveld, Fiscal at the Cape.",A363595_14027
 James Henry Craig,person,"General Major Craig, Hr. General Craig",Major-General Craig,British commander and then commandant of the Cape from 1795.,A363596_2541
 Alured Clarke,person,General Clarke,General Clarke,"Commander of the British reinforcements at the Cape, 1795.",A363596_2545
 Georg Schmidt,person,"Br. Schmidt, George Schmidt, Georg Schmidt",Brother Schmidt; Georg Schmidt,"The first Moravian missionary to the Khoekhoe, at Hartebeestkraal and Baviaanskloof, 1737 to 1744. Not the same man as Father Schmidt of Cape Town.",A363595_192
@@ -95,12 +95,12 @@ Anna Maria,person,"Hanna, Anna Maria",Anna Maria,"Called Hanna before her baptis
 Cupido,person,"Cupido, Jonas",Cupido (Jonas),Baptised by Georg Schmidt with the name Jonas; father of four daughters who were among the first candidates for baptism in 1793.,A363595_4766
 Helperus Ritzema van Lier,person,"Domine van Lier, Prediger van Lier",Domine van Lier,Minister of the Reformed church in Cape Town and friend of the mission; died 21 March 1793.,A363595_00057
 Hendrik Cloete,person,"Clüde, Clude, Eſſu Clude",Mr Clüde,"Probably Hendrik Cloete of Groot Constantia, who received the missionaries in December 1792 and visited Baviaanskloof on 18 February 1795, saying he had known the place since Georg Schmidt's time. Perhaps the Mr Claude of A363596.",A363595_00126
-Johan Isaac Rhenius,person,"Befehlshaber, Comandant Reenius, Gezaghebber Rhenius",the commander; Commandant Reenius,"Acting head of the Cape government in 1792 and 1793, then Gezaghebber (second in the government) under Sluysken; a friend of the mission.",A363595_2606
+Johan Isaac Rhenius,person,"Befehlshaber, Comandant Reenius, Gezaghebber Rhenius, Commandant Rhenius, Gezaghebber Renius, Heer Reenius (A363349)",the commander; Commandant Reenius,"Acting head of the Cape government in 1792 and 1793, then Gezaghebber (second in the government) under Sluysken; a friend of the mission.",A363595_2606
 Commissioners-General,office,"Comiſſarii, Edle Herren Comiſſarien",the Commissioners,"Sebastiaan Cornelis Nederburgh and Simon Hendrik Frykenius, sent by the Dutch East India Company to reform the Cape government, 1792 to 1793.",A363595_00096
 Johann Gottfried Haensel,person,"Br. Haenſel, Br. Hänſel",Brother Haensel,"Moravian missionary from the Nicobar Islands, at the Cape on his way to Europe in January 1793.",A363595_924
 August Gottlieb Spangenberg,person,Bruder Joſeph,Brother Joseph,"Moravian bishop, known in the Church as Brother Joseph; died 18 September 1792.",A363595_2902
 Plaisir,person,Plaiſir,Plaisir,"Elderly farm overseer two hours from the mission who could not read; friend of the mission, present at the first baptism.",A363595_3660
-Christian Kuns,person,"Christian Kuns, Frau Kunzen, Chr. Kune, Kūnze",Christian Kuns; Mrs Kuns,Rich farmer two hours from the mission. Chr. Kune (August 1794) and young Mrs Kunze (September 1794) are probably the same family.,A363595_3363
+Christian Kuns,person,"Christian Kuns, Frau Kunzen, Chr. Kune, Kūnze, Chriſtikunz, Vrouw Kunzen (A363349)",Christian Kuns; Mrs Kuns,Rich farmer two hours from the mission. Chr. Kune (August 1794) and young Mrs Kunze (September 1794) are probably the same family.,A363595_3363
 Wouter Gildenheuser,person,"Wouter Gildenheuser, Gildenheuser, Gildenheis",Wouter Gildenheuser,Farmer near the Sergeants River who tried to stop the Khoekhoe ploughing there in 1793.,A363595_4363
 Soetemelksvlei,place,Soete⸗Melksvalley,Soetemelksvlei,"Dutch East India Company post on the Sonderend River, home of Baas Teunis.",A363595_345
 Hartebeestkraal,place,Hartebeeſt⸗Craal,Hartebeestkraal,"Georg Schmidt's first station (1737), on the Sonderend River.",A363595_422
@@ -134,15 +134,15 @@ Dorothea,person,Dorothea,Dorothea,Baptised in spring 1794 (the record is in the 
 Sophia,person,Sophia,Sophia,"Baptised member, excluded before June 1794 and readmitted 25 June 1794.",A363595_8695
 Mrs Schmidt,person,"Frau Schmidt, Frau Smith, D. W. C. Smith",Mrs Schmidt; Mrs Smith,Pious woman in Cape Town who sent clothing and money for the baptised; she signs a letter of 20 August 1793 D. W. C. Smith. Perhaps the wife of Martinus Schmidt (Father Schmidt).,A363595_5172
 Treschow,person,Br. Treſchow,Brother Treschow,Moravian in Copenhagen who wrote to the missionaries in 1793.,A363595_5746
-Heuser,person,"Br. Heuſer, Hr. Heuſer",Brother Heuser; Mr Heuser,"Friend of the Brethren in Cape Town, a watchmaker, who forwarded their letters and parcels.",A363595_5762
+Heuser,person,"Br. Heuſer, Hr. Heuſer, Heer Heuſſen, Heer Keuſser, Heer Heuser (A363349)",Brother Heuser; Mr Heuser,"Friend of the Brethren in Cape Town, a watchmaker, who forwarded their letters and parcels.",A363595_5762
 Andres,person,Andres,Andres,"Watchmaker in Cape Town, friend of the mission, who pressed for a church to be built; visited October 1793.",A363595_6747
 Negrini,person,Negrini,Negrini,"Overseer of the warm bath, born in Plauen, who had seen the congregation at Neudietendorf.",A363595_7353
-Michiel Christiaan Vos,person,"Predikant Voſs, Pf. Voſs, Predicant Vos, Pfarrer Vos",the minister Voss,Reformed minister at Roodezand from 1794; probably Michiel Christiaan Vos. Brother Marsveld visited him in November 1794.,A363595_8210
-Olhof,person,Capitain Olhof,Captain Olhof,Master of the ship that brought the missionaries from Holland in 1792.,A363595_8162
+Michiel Christiaan Vos,person,"Predikant Voſs, Pf. Voſs, Predicant Vos, Pfarrer Vos, Predikant Vos, Heer Vos (A363349)",the minister Voss,Reformed minister at Roodezand from 1794; probably Michiel Christiaan Vos. Brother Marsveld visited him in November 1794.,A363595_8210
+Olhof,person,"Capitain Olhof, Captain OkChof (A363349)",Captain Olhof,Master of the ship that brought the missionaries from Holland in 1792.,A363595_8162
 Christian Franz,person,"Chriſtian Franz, Christian Frans",Christian Franz,Neighbour across the river who ground the mission's corn.,A363595_8631
 Slang River,place,Schlangen-Revier,the Snake River,"Probably the Slangrivier near present-day Heidelberg, Western Cape, three days' journey east; visited by Marsveld and Kühnel in April 1794.",A363595_8178
-Salt River,place,Salz-Revier,the Salt River,"River two days' journey from the mission, from which Khoekhoe families moved to it in April 1794; not identified.",A363595_8320
-Karringmelks River,place,Karremelks-Revier,the Karremelks River,The Karringmelks (Karnemelks) River east of Swellendam.,A363595_8395
+Salt River,place,"Salz-Revier, Zoud Rivier (A363349)",the Salt River,"River two days' journey from the mission, from which Khoekhoe families moved to it in April 1794; not identified.",A363595_8320
+Karringmelks River,place,"Karremelks-Revier, Karnmelks Rivier (A363349)",the Karremelks River,The Karringmelks (Karnemelks) River east of Swellendam.,A363595_8395
 Plettenberg Bay,place,Plettermansbay,Plettenberg Bay,,A363595_6182
 Cogmanskloof,place,Caagmanskloof,Cogmanskloof,Pass near present-day Montagu.,A363595_6538
 Elders' Festival,term,Aelteſten⸗Feſt,Elders' Festival,"13 November, the Moravian festival of Christ as Chief Elder of the church, kept since 1741.",A363595_11888
@@ -154,22 +154,22 @@ Anna,person,"Anna, Schw. Anna",Anna,"Baptised woman, not Anna Maria. Approved as
 Maria,person,"Maria, Schw. Maria",Maria,Probably the Maria made a candidate for baptism in November 1793; a candidate for Communion from 26 July 1794.,A363595_6946
 Lena (1794),person,Lena,Lena,"Baptised 12 October 1794. Not old Lena, baptised by Georg Schmidt, whom the diarists count separately.",A363595_11171
 Catharina,person,Catharina,Catharina,Baptised 27 December 1794.,A363595_12986
-Christina,person,Chriſtina,Christina,"Baptised 6 January 1795, the Festival of the Heathen.",A363595_13331
+Christina,person,"Chriſtina, Christine (A363349)",Christina,"Baptised 6 January 1795, the Festival of the Heathen.",A363595_13331
 Daniel (1795),person,Daniel,Daniel,"Son of Rahel, born 23 February 1795 and baptised the next day; apparently the first child baptised at the renewed mission.",A363595_14783
 Stoffel (captain),person,"Hottentotten⸗Capitain, Namens Stoffel",Captain Stoffel,"Khoekhoe captain on guard at the Cape, living on the place of Baas Teunis's son; said to have backed Baas Teunis's complaint to the government in January 1795 for drink and two shillings.",A363595_14033
 Schönberg,person,"Schönberg, Schonberg, v. Schonberg",Mr Schönberg,"Merchant in Cape Town, one of the society of awakened people, related to the General Marshal von Schönberg; friend and correspondent of the mission.",A363595_6408
-Lind,person,"Juffrouw Lind, junge Frau Lind, Frau Lind",Juffrouw Lind; young Mrs Lind,"Farmer's wife, perhaps a widow, 3 or 4 German miles from the mission, who supplied fruit trees and held an auction of livestock in September 1794. Perhaps of the family of Field Cornet Linde. The second copy of the July 1794 diary has Lier.",A363595_8925
-Lücke,person,"Herr Like, Herr Lier, Herr Lücke",Mr Lücke,Friend of the mission at the Cape with a country place two hours from town; asked for a servant and livestock in July 1794. The name is uncertain.,A363595_8972
-Marx,person,"Bauer Marx, Mary, junge Frau Mary",Marx; Mary,Farmer family near the mission that visited often in 1794 and 1795; one son spoke Portuguese. Perhaps also the Marcis and Mareis of September and October 1794.,A363595_11911
-Morgel,person,"Hr. Morgel, junge Frau Morgel, Br. Morgel",Mr Morgel; young Mrs Morgel,Family near Hottentots Holland or Stellenbosch with whom the brethren lodged on the road to the Cape.,A363595_10487
+Lind,person,"Juffrouw Lind, junge Frau Lind, Frau Lind, Vrouw Lint (A363349)",Juffrouw Lind; young Mrs Lind,"Farmer's wife, perhaps a widow, 3 or 4 German miles from the mission, who supplied fruit trees and held an auction of livestock in September 1794. Perhaps of the family of Field Cornet Linde. The second copy of the July 1794 diary has Lier.",A363595_8925
+Lücke,person,"Herr Like, Herr Lier, Herr Lücke, Heer Lucke (A363349)",Mr Lücke,Friend of the mission at the Cape with a country place two hours from town; asked for a servant and livestock in July 1794. The name is uncertain.,A363595_8972
+Marx,person,"Bauer Marx, Mary, junge Frau Mary, Boer Marÿ, jonge Vrouw Mary (A363349)",Marx; Mary,Farmer family near the mission that visited often in 1794 and 1795; one son spoke Portuguese. Perhaps also the Marcis and Mareis of September and October 1794.,A363595_11911
+Morgel,person,"Hr. Morgel, junge Frau Morgel, Br. Morgel, Heer Morgel, jonge Vrouw Morgeln, Vrouw Morget (A363349)",Mr Morgel; young Mrs Morgel,Family near Hottentots Holland or Stellenbosch with whom the brethren lodged on the road to the Cape.,A363595_10487
 Harme,person,Bauer Harme,the farmer Harme,Farmer who visited the meetings; in February 1795 he came with his Khoekhoe wife.,A363595_10383
-Lesueur (1794),person,"Herr Leſueur, Polizeymſtr Leſieur",Mr Lesueur,"Official of the Cape government, chief of police in 1795; his daughter and sister visited the mission in October 1794. Perhaps of the same family as Captain Lesueur.",A363595_10944
-Zinkhank,person,Zinkhank,Mr Zinkhank,Gentleman from Flanders who had left because of the war; visited in December 1794 and took Brother Marsveld to the Cape in January 1795. The name may be misread.,A363595_13628
+Lesueur (1794),person,"Herr Leſueur, Polizeymſtr Leſieur, Heer Leſieur, Polieziynaad Lesieur (A363349)",Mr Lesueur,"Official of the Cape government, chief of police in 1795; his daughter and sister visited the mission in October 1794. Perhaps of the same family as Captain Lesueur.",A363595_10944
+Zinkhank,person,"Zinkhank, Linksank (A363349)",Mr Zinkhank,Gentleman from Flanders who had left because of the war; visited in December 1794 and took Brother Marsveld to the Cape in January 1795. The name may be misread. The Dutch diary A363349 has Linksank and calls him a Frenchman (line 7725).,A363595_13628
 Johann Friedrich Reichel,person,Br. Reichel,Brother Reichel,Member of the Unity Elders' Conference who corresponded with the missionaries; his address of 13 August 1792 was read at the mission.,A363595_9457
 Swellengrebel,person,Hr. Schwellengräver,Mr Schwellengräver,Gentleman at Doorn near Zeist on whose recommendation Mr Cloete received the missionaries in 1792; probably of the Cape-born Swellengrebel family.,A363595_14604
 Breede River,place,"Breede Revier, Breden Revier, breiten Revier",Breede River,About 20 German miles (3 days' ride) from the mission; several Khoekhoe families came from there in 1794 and 1795.,A363595_9973
-Bot River,place,"Butter⸗Revier, Botterrevier",Bot River,River on the road from Baviaanskloof to Hottentots Holland.,A363595_10777
-Brandveld,place,Brand Veld,Brandveld,District 7 days' journey from the mission; not identified.,A363595_10033
+Bot River,place,"Butter⸗Revier, Botterrevier, Boter Rivier (A363349)",Bot River,River on the road from Baviaanskloof to Hottentots Holland.,A363595_10777
+Brandveld,place,"Brand Veld, strandveld (A363349)",Brandveld,"District 7 days' journey from the mission; not identified. The Dutch diary A363349 has *op het strandveld* (lines 5129 to 5130), probably the right reading: the Strandveld, the coastal country.",A363595_10033
 Appel Kraal,place,"Appel Craul, Appel Craal",Appel Kraal,Khoekhoe settlement a long day's ride from the mission; not identified.,A363595_9012
 Bok River,place,"Bocken⸗Revier, Bock⸗Revier",Bok River,"Stream 2 hours from the mission, formerly Khoekhoe land, given to a farmer named Dimeni about 1794; not identified.",A363595_14367
 Conrad,person,Conrad,Conrad,Farmer living two hours from the mission; visited 29 April 1793.,A363349_475
@@ -184,3 +184,19 @@ Otto Fries,person,Otto Fries,Otto Fries,"Farmer on the road from the warm bath, 
 Dumouriez,person,"Du Mortier, Dumouriez",Dumouriez,"Charles François Dumouriez, commander of the French army that invaded the Dutch Republic in February 1793.",A363349_1841
 Schenk,person,"Juffrouw Schenk, Miss Schonk",Juffrouw Schenk,"Friend of Mrs Smith in Cape Town, named in her letter of 20 August 1793; the German copy has Schonk. Not identified.",A363349_2971
 Lion's Hill,place,Leeuwenberg,Lion's Hill,"Signal Hill above Cape Town, from which a gun was fired when ships were sighted.",A363349_3306
+Freister,person,Heer met Naam Freiſter,Mr Freister,Gentleman whom Marsveld and Kühnel met at the post on their journey of April 1794; visited the mission on 9 April 1794 with his family. Not identified.,A363349_4987
+Horz,person,Boer Horz,the farmer Horz,Farmer with whom Marsveld and Kühnel stayed on 6 April 1794 on the way back from Swellendam; perhaps the farmer Herz of the German diary A363595. Not identified.,A363349_4973
+Ferscke,person,"Heer Ferſcke, Ferſché",Mr Ferscke,"Visitor from the Cape in January 1794, son-in-law of a Mr David (German diary: Dewed) who allotted places to new colonists. Not identified.",A363349_4375
+Predicam,person,Boer met Name Predicam,the farmer Predicam,Farmer who came to hire Khoekhoe workers on 1 December 1794. Not identified.,A363349_6831
+Guber,person,Boer genaamd Guber,the farmer Guber,Farmer near the Bot River who grudgingly lodged Brother Schwinn on 28 September 1794. Not identified.,A363349_5664
+Sybrandt de Beer,person,Sÿbrandt de Beer,Sybrandt de Beer,Farmer on the road to Roodezand who lodged Brother Marsveld on 24 November 1794.,A363349_6740
+Jacob Hugo,person,Jacob Hugo,Jacob Hugo,Farmer on the road from Roodezand who lodged Brother Marsveld on 27 November 1794.,A363349_6810
+Blüher,person,"Broeder Blüher, Bruder Blüher",Brother Blüher,Moravian whose address at Herrnhut of 13 November 1792 was read at the mission on 13 November 1794. Not identified.,A363349_6438
+Frederik,person,"Heer Frederik, Herr Friedrich",Mr Frederik,Lieutenant on the ship that brought the missionaries in 1792; commander of a packet boat taken by the French in 1794 and said to be held in Paris.,A363349_6365
+Elias,person,Elias,Mr Elias,"Visitor from the Cape on 7 December 1794, uncle (German diary: cousin) of a Mr Elias, a director of the Dutch East India Company in Amsterdam.",A363349_6912
+Berg,person,Heer Caſsier Berg,"Mr Berg, the cashier",Official at the Cape present when Marsveld saw Rhenius on 9 January 1795.,A363349_7794
+Colser,person,"Luthersche Predikant Colser, Colver",the Lutheran minister Colser,"Lutheran minister in Cape Town, January 1795. The name is uncertain.",A363349_7833
+Eckstein,place,plaats Eckstein,Eckstein,"Farm of the Frenchman Linksank (Zinkhank) on the road between the Bot River and Hottentots Holland Kloof, January 1795. Not identified.",A363349_7733
+Cape Flats,place,Kaapſche Heide,the Cape Flats,"The sandy flats between Hottentots Holland and Cape Town, four hours' ride without a house (A363349, 29 September 1794).",A363349_5701
+snaphaan,term,Snaphaan,flintlock,A flintlock musket.,A363349_446
+spoelkom,term,Spoelkom,bowl,"A slop basin or rinsing bowl, used as a drinking measure for wine at the harvest. The German diary A363595 has *Pullumpen*.",A363349_6007

@@ -61,7 +61,7 @@ On the 29th most of the Hottentots, and the bigger children too, moved away from
 2. The German diary says that this was at an auction on 7 November, 2 hours from the mission. The Dutch leaves out the auction and the watering of the garden on the 8th and 9th.
 3. 13 November, the Moravian festival of Christ as Chief Elder of the church. See Elders' Festival in the glossary.
 4. See Rahel in the glossary.
-5. Line 3484 is missing. The transcription runs *dat hij haar bij Zich en* / *Lijden en sterven bevestige*. The German diary has "to keep them with him and his wounds, and to ground them ever deeper in his torment and death". The words in square brackets are supplied from there.
+5. Line 3484 is missing. The transcription runs *dat hij haar bij Zich en* / *Lijden en sterven bevestige*. The German diary has "to keep them with him and his wounds, and to ground them ever deeper in his torment and death". The words in square brackets are supplied from there. The repeat of this page in entry 11 keeps the lost line (line 4268): *Zijne Wonden bewaare, en haar immer vaster in Zijn*, which confirms the reading.
 6. *te Zwak*, "too weak". The German diary has *zu schwarz*, "too black" (A363595 entry 15); the Dutch suggests that the German is a misreading of *schwach*. To be checked against the images.
 7. *den 18tn*: out of order before the 16th and 17th, and the 18th has an entry of its own below. The German diary has *Den 15t. Julij* at this place, and its note takes the date as 15 November. *18tn* here is probably a misreading of *15tn*. To be checked against the image.
 8. See Andreas Otto in the glossary. The German diary names him as Andreas Otto too.
