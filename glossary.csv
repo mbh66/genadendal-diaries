@@ -1,5 +1,5 @@
 term,kind,forms_in_source,english_rendering,note,first_seen
-Hottentot,offensive-term,"Hottentott, Hottentotten, Hott:",Hottentot(s),"The colonial name for Khoekhoe people. It is now widely regarded as offensive. Translations keep it where the diarists used it, because the translation reproduces their words. Editorial notes, README text and anything written in our own voice use Khoekhoe (or Khoe, or the name of a specific people) and never this word.",A363597_00002
+Hottentot,offensive-term,"Hottentott, Hottentotten, Hott:, Hottentottin (Dutch)",Hottentot(s),"The colonial name for Khoekhoe people. It is now widely regarded as offensive. Translations keep it where the diarists used it, because the translation reproduces their words. Editorial notes, README text and anything written in our own voice use Khoekhoe (or Khoe, or the name of a specific people) and never this word.",A363597_00002
 Kaffer,offensive-term,"Kaffern, Kaffern-Nation, Kaffern-Lande, Caffer",Kaffer(s),"The diarists' word for Xhosa people and their country. In South Africa the word later became a severe racial slur. Translations keep it where the diarists used it, and a note on first use explains it. Our own writing uses Xhosa. The normalised column sometimes replaces it with 'Xhosa' (A363597 line 2098); translations follow the diplomatic transcription.",A363597_00026
 Baas,term,Baas,Baas,Dutch and Afrikaans for master or boss; used by a Khoekhoe speaker addressing a farmer.,A363597_1551
 Heiland,term,Heiland,the Saviour,Standard Moravian name for Christ.,A363597_00031
@@ -71,7 +71,7 @@ Palmiet River,place,"Palmito=Fluß, Palmite⸗Revier, Palemitts⸗Revier",Palmie
 Batavia,place,Batavia,Batavia,"Present-day Jakarta, seat of the Dutch East India Company in Asia.",A363596_1456
 Neuwied,place,Neuwied,Neuwied,Moravian settlement on the Rhine.,A363596_1688
 Teunis,person,"Baas Teunis, Juffr. Teunis, Juffrou Teunis, Frau Teunis, der junge Teunis, H. Teunis",Baas Teunis; Juffrouw Teunis; young Teunis,"Neighbouring farmer living at 'the post' near the mission, hostile to it in 1795–96; also his wife and his son.",A363596_00021
-Martha,person,"Martha, Mari, Schw. Martha",Martha,"Called Mari before her baptism on 13 August 1793; daughter of Sara (died August 1795); had nursed a child for the minister van Lier. First communion 8 March 1794. Dictated a letter to the brothers and sisters in Europe, May 1795.",A363595_5380
+Martha,person,"Martha, Mari, Schw. Martha, Maria (A363349)",Martha,"Called Mari before her baptism on 13 August 1793; daughter of Sara (died August 1795); had nursed a child for the minister van Lier. First communion 8 March 1794. Dictated a letter to the brothers and sisters in Europe, May 1795. The Dutch diary A363349 gives her former name as Maria.",A363595_5380
 Jacob,person,Jacob,Jacob,"Husband of Anna Maria, baptised 28 January 1794 (probably the Mouras of Gordon's letter, line 5587); the mission's helper. Guided the missionaries and served at the Cape in 1795.",A363595_7786
 Susanna,person,"Suſana, Suſanna, Suſanne",Susanna,Baptised 23 March 1794; confirmed 29 April 1795.,A363595_8157
 Louise,person,"Louise, Louiſe, Luise",Louise,Baptised 25 March 1795; confirmed 2 March 1796.,A363596_318
@@ -125,8 +125,8 @@ sjambok,term,Sambok,sjambok,Heavy whip of hide.,A363595_2235
 pottebas,term,Pottebaß,pottebas,"Stringed instrument made from a gourd, probably the ramkie.",A363595_4566
 Ehemann,term,"Ehmann, Eheherr, Eherr",Husband,Moravian name for Christ as the husband of the congregation and of every soul.,A363595_5779
 Buschmann,term,"Buſchmänner, Buſchmännern",Bushman; Bushmen,"The colonists' name for San people, now regarded as derogatory. Translations keep it where the diarists used it; our own writing uses San. Line 6964 probably has a misreading of it (Chriſtenmannen).",A363595_6980
-Sara,person,"Sara, Sarah",Sara,Called Frandsina before her baptism on 13 August 1793; mother of Martha. Candidate for Communion February 1794.,A363595_5379
-Eva,person,Eva,Eva,"Called Mitje before her baptism on 13 August 1793. Her husband was baptised on 28 January 1794, probably as Johannes.",A363595_5381
+Sara,person,"Sara, Sarah, Trancina (A363349)",Sara,Called Frandsina before her baptism on 13 August 1793; mother of Martha. Candidate for Communion February 1794. The Dutch diary A363349 has Trancina.,A363595_5379
+Eva,person,"Eva, Mietje (A363349)",Eva,"Called Mitje before her baptism on 13 August 1793. Her husband was baptised on 28 January 1794, probably as Johannes.",A363595_5381
 Elisabeth,person,Elisabeth,Elisabeth,Baptised 28 August 1793; candidate for Communion March 1794.,A363595_5691
 Rahel,person,Rahel,Rahel,Baptised 13 November 1793.,A363595_6858
 Hanna (1794),person,"Hanna, Hannah",Hanna,"Baptised 28 January 1794 with Jakob and Johannes; formerly married to a burgher's slave. Worked at the stranded ship with Baas Teunis's son in 1794; excluded 22 October 1794 and still excluded at the end of 1794. Not Anna Maria, who was called Hanna before her baptism.",A363595_7786
@@ -172,3 +172,15 @@ Bot River,place,"Butter⸗Revier, Botterrevier",Bot River,River on the road from
 Brandveld,place,Brand Veld,Brandveld,District 7 days' journey from the mission; not identified.,A363595_10033
 Appel Kraal,place,"Appel Craul, Appel Craal",Appel Kraal,Khoekhoe settlement a long day's ride from the mission; not identified.,A363595_9012
 Bok River,place,"Bocken⸗Revier, Bock⸗Revier",Bok River,"Stream 2 hours from the mission, formerly Khoekhoe land, given to a farmer named Dimeni about 1794; not identified.",A363595_14367
+Conrad,person,Conrad,Conrad,Farmer living two hours from the mission; visited 29 April 1793.,A363349_475
+Henrich Tirnhold,person,Henrich Tirnhold,Henrich Tirnhold,Farmer who stayed the night on 3 May 1793 on his way to the Buffels River. The German diary A363595 has Heinrich Fernhold; one of the two is probably a misreading.,A363349_501
+Buffels River,place,Buffels rivier,Buffels River,Destination of Henrich Tirnhold in May 1793; the German diary has the Kaffer River. Not identified.,A363349_503
+Redlichhausen,person,"Redlichhauſen, Redlichheuser",Redlichhausen,"Wagon maker from Ganzekraal, friendly to the mission.",A363349_512
+Ganzekraal,place,"Ganſekraal, Ganzekraal",Ganzekraal,"Farm six hours from the mission, home of the wagon maker Redlichhausen. Not identified.",A363349_512
+Maree,person,Maree,Maree,Farmer two hours from the mission on the road to the warm bath.,A363349_628
+Andreas Otte,person,Andreas Otte,Andreas Otte,"Superintendent of the warm bath in May 1793: a German and a pastor's son who had studied and came to the Cape as a soldier. Compare Negrini, named as overseer of the warm bath in December 1793, and Andreas Otto.",A363349_646
+Peter Meelman,person,"Peter Meelman, Peter Mulmann",Peter Meelman,"Farmer about an hour from the warm bath, visited May 1793.",A363349_721
+Otto Fries,person,Otto Fries,Otto Fries,"Farmer on the road from the warm bath, visited May 1793.",A363349_723
+Dumouriez,person,"Du Mortier, Dumouriez",Dumouriez,"Charles François Dumouriez, commander of the French army that invaded the Dutch Republic in February 1793.",A363349_1841
+Schenk,person,"Juffrouw Schenk, Miss Schonk",Juffrouw Schenk,"Friend of Mrs Smith in Cape Town, named in her letter of 20 August 1793; the German copy has Schonk. Not identified.",A363349_2971
+Lion's Hill,place,Leeuwenberg,Lion's Hill,"Signal Hill above Cape Town, from which a gun was fired when ships were sighted.",A363349_3306
