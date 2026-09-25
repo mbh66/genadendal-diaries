@@ -31,7 +31,7 @@ Bethelsdorp,place,Bethelsdorp,Bethelsdorp,"London Missionary Society station of 
 Zeist,place,Zeist,Zeist,Moravian settlement in the Netherlands; the Dutch mission society corresponded from here.,A363597_316
 Berthelsdorf,place,Berthelsdorf,Berthelsdorf,"Seat of the Moravian Unity Elders' Conference, near Herrnhut.",A363597_1495
 Christian Ludwig Rose,person,"Rose, Br. Rose, Bruder Rose",Br. Rose,"Missionary at Baviaanskloof. Died on Saturday 12 October, probably 1805 (A363597 entry 15). His wife appears as Schwester Rosin.",A363597_00022
-Johann Philipp Kohrhammer,person,"Kohrhammer, Kohrhamer, Rohrhammer",Br. Kohrhammer,Missionary. Rohrhammer is a likely misreading.,A363597_487
+Johann Philipp Kohrhammer,person,"Kohrhammer, Kohrhamer, Rohrhammer, Br: J. Z. Kohrhammer, Br: en Zr: Kohrhammer (A363349)",Br. Kohrhammer,"Missionary. Rohrhammer is a likely misreading. In 1797 the Baviaanskloof missionaries learned that he and his wife had been called to the mission; the first Dutch copy of the 1797 reports reads *Br: J. Z. Kohrhammer*, a misreading of *Br: en Zr:* (A363349 entries 36 and 38).",A363597_487
 Hendrik Marsveld,person,Marsveld,Hendrik Marsveld,One of the three missionaries who re-founded the mission in 1792.,A363597_1508
 Daniel Schwinn,person,Schwinn,Daniel Schwinn,One of the three missionaries who re-founded the mission in 1792.,A363597_1509
 Johann Christian Kühnel,person,"Kühnel, Joh. Christian Kühnel",Br. Kühnel,One of the three missionaries who re-founded the mission in 1792.,A363597_939
@@ -100,7 +100,7 @@ Commissioners-General,office,"Comiſſarii, Edle Herren Comiſſarien",the Commi
 Johann Gottfried Haensel,person,"Br. Haenſel, Br. Hänſel",Brother Haensel,"Moravian missionary from the Nicobar Islands, at the Cape on his way to Europe in January 1793.",A363595_924
 August Gottlieb Spangenberg,person,Bruder Joſeph,Brother Joseph,"Moravian bishop, known in the Church as Brother Joseph; died 18 September 1792.",A363595_2902
 Plaisir,person,Plaiſir,Plaisir,"Elderly farm overseer two hours from the mission who could not read; friend of the mission, present at the first baptism.",A363595_3660
-Christian Kuns,person,"Christian Kuns, Frau Kunzen, Chr. Kune, Kūnze, Chriſtikunz, Vrouw Kunzen (A363349)",Christian Kuns; Mrs Kuns,Rich farmer two hours from the mission. Chr. Kune (August 1794) and young Mrs Kunze (September 1794) are probably the same family.,A363595_3363
+Christian Kuns,person,"Christian Kuns, Frau Kunzen, Chr. Kune, Kūnze, Chriſtikunz, Vrouw Kunzen, Chr: Kunze, Boer Kunz (A363349)",Christian Kuns; Mrs Kuns,Rich farmer two hours from the mission. Chr. Kune (August 1794) and young Mrs Kunze (September 1794) are probably the same family.,A363595_3363
 Wouter Gildenheuser,person,"Wouter Gildenheuser, Gildenheuser, Gildenheis",Wouter Gildenheuser,Farmer near the Sergeants River who tried to stop the Khoekhoe ploughing there in 1793.,A363595_4363
 Soetemelksvlei,place,Soete⸗Melksvalley,Soetemelksvlei,"Dutch East India Company post on the Sonderend River, home of Baas Teunis.",A363595_345
 Hartebeestkraal,place,Hartebeeſt⸗Craal,Hartebeestkraal,"Georg Schmidt's first station (1737), on the Sonderend River.",A363595_422
@@ -134,7 +134,7 @@ Dorothea,person,Dorothea,Dorothea,Baptised in spring 1794 (the record is in the 
 Sophia,person,Sophia,Sophia,"Baptised member, excluded before June 1794 and readmitted 25 June 1794.",A363595_8695
 Mrs Schmidt,person,"Frau Schmidt, Frau Smith, D. W. C. Smith",Mrs Schmidt; Mrs Smith,Pious woman in Cape Town who sent clothing and money for the baptised; she signs a letter of 20 August 1793 D. W. C. Smith. Perhaps the wife of Martinus Schmidt (Father Schmidt).,A363595_5172
 Treschow,person,Br. Treſchow,Brother Treschow,Moravian in Copenhagen who wrote to the missionaries in 1793.,A363595_5746
-Heuser,person,"Br. Heuſer, Hr. Heuſer, Heer Heuſſen, Heer Keuſser, Heer Heuser (A363349)",Brother Heuser; Mr Heuser,"Friend of the Brethren in Cape Town, a watchmaker, who forwarded their letters and parcels.",A363595_5762
+Heuser,person,"Br. Heuſer, Hr. Heuſer, Heer Heuſſen, Heer Keuſser, Heer Heuser, Heer Heuſſer (A363349)",Brother Heuser; Mr Heuser,"Friend of the Brethren in Cape Town, a watchmaker, who forwarded their letters and parcels.",A363595_5762
 Andres,person,Andres,Andres,"Watchmaker in Cape Town, friend of the mission, who pressed for a church to be built; visited October 1793.",A363595_6747
 Negrini,person,Negrini,Negrini,"Overseer of the warm bath, born in Plauen, who had seen the congregation at Neudietendorf.",A363595_7353
 Michiel Christiaan Vos,person,"Predikant Voſs, Pf. Voſs, Predicant Vos, Pfarrer Vos, Predikant Vos, Heer Vos (A363349)",the minister Voss,Reformed minister at Roodezand from 1794; probably Michiel Christiaan Vos. Brother Marsveld visited him in November 1794.,A363595_8210
@@ -158,7 +158,7 @@ Christina,person,"Chriſtina, Christine (A363349)",Christina,"Baptised 6 January
 Daniel (1795),person,Daniel,Daniel,"Son of Rahel, born 23 February 1795 and baptised the next day; apparently the first child baptised at the renewed mission.",A363595_14783
 Stoffel (captain),person,"Hottentotten⸗Capitain, Namens Stoffel",Captain Stoffel,"Khoekhoe captain on guard at the Cape, living on the place of Baas Teunis's son; said to have backed Baas Teunis's complaint to the government in January 1795 for drink and two shillings.",A363595_14033
 Schönberg,person,"Schönberg, Schonberg, v. Schonberg",Mr Schönberg,"Merchant in Cape Town, one of the society of awakened people, related to the General Marshal von Schönberg; friend and correspondent of the mission.",A363595_6408
-Lind,person,"Juffrouw Lind, junge Frau Lind, Frau Lind, Vrouw Lint (A363349)",Juffrouw Lind; young Mrs Lind,"Farmer's wife, perhaps a widow, 3 or 4 German miles from the mission, who supplied fruit trees and held an auction of livestock in September 1794. Perhaps of the family of Field Cornet Linde. The second copy of the July 1794 diary has Lier.",A363595_8925
+Lind,person,"Juffrouw Lind, junge Frau Lind, Frau Lind, Vrouw Lint, vrouwen Lind en Mary (A363349)",Juffrouw Lind; young Mrs Lind,"Farmer's wife, perhaps a widow, 3 or 4 German miles from the mission, who supplied fruit trees and held an auction of livestock in September 1794. Perhaps of the family of Field Cornet Linde. The second copy of the July 1794 diary has Lier.",A363595_8925
 Lücke,person,"Herr Like, Herr Lier, Herr Lücke, Heer Lucke (A363349)",Mr Lücke,Friend of the mission at the Cape with a country place two hours from town; asked for a servant and livestock in July 1794. The name is uncertain.,A363595_8972
 Marx,person,"Bauer Marx, Mary, junge Frau Mary, Boer Marÿ, jonge Vrouw Mary (A363349)",Marx; Mary,Farmer family near the mission that visited often in 1794 and 1795; one son spoke Portuguese. Perhaps also the Marcis and Mareis of September and October 1794.,A363595_11911
 Morgel,person,"Hr. Morgel, junge Frau Morgel, Br. Morgel, Heer Morgel, jonge Vrouw Morgeln, Vrouw Morget (A363349)",Mr Morgel; young Mrs Morgel,Family near Hottentots Holland or Stellenbosch with whom the brethren lodged on the road to the Cape.,A363595_10487
@@ -220,3 +220,12 @@ Margaretha,person,Margaretha,Margaretha,Baptised 1 November 1795; her husband wa
 Alida,person,"Alida, Alide (A363349)",Alida,Baptised 1 November 1795.,A363596_2720
 Esther,person,Esther,Esther,Baptised 1 November 1795.,A363596_2720
 kom,term,Kom,basin,"A basin or hollow by the mission house, dug out and set round with stones in February 1795; perhaps a dam or pool. The German diary A363595 has the unclear *Dſchanna*.",A363349_8746
+Paling,person,"Paling, van Baling",Mr Paling,"Former captain, out of service, who had often been in Zeist; visited with young Teunis on 17 January 1796. The German diary A363596 has van Baling. Not identified.",A363349_11786
+Wolfrum,person,"Wolfrum, Wolfram",Wolfrum,Neighbour to whom Brother Marsveld rode for news on 25 February 1796. Not identified.,A363349_12065
+Latrobe,person,"Br: Latrobe, Br. La Trobe",Brother Latrobe,"Brother Latrobe in London, who wrote to the missionaries in 1797 and 1798; probably Christian Ignatius Latrobe, secretary of the Moravian mission society in London.",A363349_12331
+Reichel,person,Br. Reichel,Brother Reichel,Gave a choir address to the single brothers at Herrnhut in 1795 and wrote to the missionaries in 1798. Not identified.,A363349_12429
+Krisch,person,"Pred: Kriſch, Pred. Krich",the minister Krisch,Minister from the Cape who visited the mission on 18 to 20 September 1797. The name is uncertain.,A363349_12501
+Sommerfeld,person,Heer Sommerfeld,Mr Sommerfeld,"Commissary over the posts, who stayed a night at the mission in September 1797. Not identified.",A363349_12515
+Nathanael,person,Nathanaël,Nathanael,Baptised 31 October 1797.,A363349_12524
+Idea fidei fratrum,term,"Jdea fidei fratrum, Idea fidei Fratrum, Idea Fidei fratrum",*Idea fidei fratrum*,"Spangenberg's summary of Moravian doctrine (1779), read aloud to the baptised; finished in May 1797.",A363595_00050
+Brother Joseph,person,Br. Joſephs kinderreden,Brother Joseph,"August Gottlieb Spangenberg, known in the Unity as Brother Joseph; his addresses to children reached the mission in January 1798.",A363349_12881
