@@ -71,9 +71,9 @@ Palmiet River,place,Palmito=Fluß,Palmiet River,,A363596_2188
 Batavia,place,Batavia,Batavia,"Present-day Jakarta, seat of the Dutch East India Company in Asia.",A363596_1456
 Neuwied,place,Neuwied,Neuwied,Moravian settlement on the Rhine.,A363596_1688
 Teunis,person,"Baas Teunis, Juffr. Teunis, Juffrou Teunis, Frau Teunis, der junge Teunis, H. Teunis",Baas Teunis; Juffrouw Teunis; young Teunis,"Neighbouring farmer living at 'the post' near the mission, hostile to it in 1795–96; also his wife and his son.",A363596_00021
-Martha,person,"Martha, Schw. Martha",Martha,"Baptised member; daughter of Sara (died August 1795). Dictated a letter to the brothers and sisters in Europe, May 1795.",A363596_00028
-Jacob,person,Jacob,Jacob,Baptised member who guided the missionaries and served at the Cape in 1795.,A363596_908
-Susanna,person,"Suſana, Suſanna, Suſanne",Susanna,Member; confirmed 29 April 1795.,A363596_00123
+Martha,person,"Martha, Mari, Schw. Martha",Martha,"Called Mari before her baptism on 13 August 1793; daughter of Sara (died August 1795); had nursed a child for the minister van Lier. First communion 8 March 1794. Dictated a letter to the brothers and sisters in Europe, May 1795.",A363595_5380
+Jacob,person,Jacob,Jacob,"Husband of Anna Maria, baptised 28 January 1794 (probably the Mouras of Gordon's letter, line 5587); the mission's helper. Guided the missionaries and served at the Cape in 1795.",A363595_7786
+Susanna,person,"Suſana, Suſanna, Suſanne",Susanna,Baptised 23 March 1794; confirmed 29 April 1795.,A363595_8157
 Louise,person,"Louise, Louiſe, Luise",Louise,Baptised 25 March 1795; confirmed 2 March 1796.,A363596_318
 Stoffel Grunewald,person,"Stoffel Grunewald, Grunewald",Stoffel Grunewald,Neighbouring farmer.,A363596_128
 Claude,person,"H. Claude, Hr. Claude",Mr Claude,"Bought the land near the mission where young Teunis had his place, 1795.",A363596_874
@@ -123,3 +123,25 @@ Muishond,term,Muuſe⸗Hund,muishond,Cape Dutch name for the polecat and small m
 Verklicker,term,Verklicher,tell-tale (honeyguide),"Cape Dutch verklikker, the honeyguide bird.",A363595_3062
 sjambok,term,Sambok,sjambok,Heavy whip of hide.,A363595_2235
 pottebas,term,Pottebaß,pottebas,"Stringed instrument made from a gourd, probably the ramkie.",A363595_4566
+Ehemann,term,"Ehmann, Eheherr, Eherr",Husband,Moravian name for Christ as the husband of the congregation and of every soul.,A363595_5779
+Buschmann,term,"Buſchmänner, Buſchmännern",Bushman; Bushmen,"The colonists' name for San people, now regarded as derogatory. Translations keep it where the diarists used it; our own writing uses San. Line 6964 probably has a misreading of it (Chriſtenmannen).",A363595_6980
+Sara,person,"Sara, Sarah",Sara,Called Frandsina before her baptism on 13 August 1793; mother of Martha. Candidate for Communion February 1794.,A363595_5379
+Eva,person,Eva,Eva,"Called Mitje before her baptism on 13 August 1793. Her husband was baptised on 28 January 1794, probably as Johannes.",A363595_5381
+Elisabeth,person,Elisabeth,Elisabeth,Baptised 28 August 1793; candidate for Communion March 1794.,A363595_5691
+Rahel,person,Rahel,Rahel,Baptised 13 November 1793.,A363595_6858
+Hanna (1794),person,"Hanna, Hannah",Hanna,"Baptised 28 January 1794 with Jakob and Johannes; formerly married to a burgher's slave. Not Anna Maria, who was called Hanna before her baptism.",A363595_7786
+Dorothea,person,Dorothea,Dorothea,Baptised in spring 1794 (the record is in the lost pages); excluded 14 June 1794.,A363595_8524
+Sophia,person,Sophia,Sophia,"Baptised member, excluded before June 1794 and readmitted 25 June 1794.",A363595_8695
+Mrs Schmidt,person,"Frau Schmidt, Frau Smith, D. W. C. Smith",Mrs Schmidt; Mrs Smith,Pious woman in Cape Town who sent clothing and money for the baptised; she signs a letter of 20 August 1793 D. W. C. Smith. Perhaps the wife of Martinus Schmidt (Father Schmidt).,A363595_5172
+Treschow,person,Br. Treſchow,Brother Treschow,Moravian in Copenhagen who wrote to the missionaries in 1793.,A363595_5746
+Heuser,person,"Br. Heuſer, Hr. Heuſer",Brother Heuser; Mr Heuser,Friend of the Brethren in Cape Town who forwarded their letters and parcels.,A363595_5762
+Andres,person,Andres,Andres,"Watchmaker in Cape Town, friend of the mission, who pressed for a church to be built; visited October 1793.",A363595_6747
+Negrini,person,Negrini,Negrini,"Overseer of the warm bath, born in Plauen, who had seen the congregation at Neudietendorf.",A363595_7353
+Michiel Christiaan Vos,person,"Predikant Voſs, Pf. Voſs",the minister Voss,Reformed minister who arrived in 1794 and was going to Roodezand; probably Michiel Christiaan Vos.,A363595_8210
+Olhof,person,Capitain Olhof,Captain Olhof,Master of the ship that brought the missionaries from Holland in 1792.,A363595_8162
+Christian Franz,person,Chriſtian Franz,Christian Franz,Neighbour across the river who ground the mission's corn.,A363595_8631
+Slang River,place,Schlangen-Revier,the Snake River,"Probably the Slangrivier near present-day Heidelberg, Western Cape, three days' journey east; visited by Marsveld and Kühnel in April 1794.",A363595_8178
+Salt River,place,Salz-Revier,the Salt River,"River two days' journey from the mission, from which Khoekhoe families moved to it in April 1794; not identified.",A363595_8320
+Karringmelks River,place,Karremelks-Revier,the Karremelks River,The Karringmelks (Karnemelks) River east of Swellendam.,A363595_8395
+Plettenberg Bay,place,Plettermansbay,Plettenberg Bay,,A363595_6182
+Cogmanskloof,place,Caagmanskloof,Cogmanskloof,Pass near present-day Montagu.,A363595_6538
