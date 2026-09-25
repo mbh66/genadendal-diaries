@@ -6,11 +6,10 @@ This repository holds machine-readable transcriptions of the Moravian mission di
 
 - `translations/en/A363597/` is done: 15 entries, the pilot, all `machine-translation-unreviewed`. Use it as the model for format, tone and notes.
 - `translations/en/A363596/` is done: 13 entries, March 1795 to March 1796.
-- **A363595** (German, 14,904 rows) is in progress. Entries 01 to 21 cover lines 00002 to 8757 (23 November 1792 to 30 June 1794). The next batch starts at line 8763 with the heading of diary V (*V. Tagebuch ... vom 1. bis 31. Juli 1794*). Later diary headings are at lines 9283 (August 1794), 9573, 9871, 10595, 11705, 13174 and 14273 (line IDs in `data/A363595.csv`); the July 1794 diary appears twice (lines 8763 and 9024). The transcription jumps from page image 56 to 64 between lines 2861 and 2863, losing the end of March and most of April 1793, and from image 168 to 176 between lines 8427 and 8428, losing 4 April to about 8 June 1794. The image numbers also jump at lines 3579 and 4620, but the text runs on there.
-- In A363595 the transcription misreads *Klocke* (bell) as *Pferde* (horses) at lines 6577 and 7736, and *Sprechen* as *Speiſen* in June 1794. Watch for these again.
-- In A363595 the diplomatic column sometimes runs a few lines behind the normalised column (for example at lines 915 to 922). Packets and line markers follow the normalised column.
-- After A363595: **A363349** (Dutch, 16,455 rows).
-- A363595 and A363349 are too large for one session. Work in batches of about 10 entries per session and per pull request.
+- `translations/en/A363595/` is done: 31 entries, 23 November 1792 to 28 February 1795 (lines 00002 to 14965; the file has 14,904 rows, but the line IDs run to 14965). The July and August 1794 diaries each appear twice (entries 22 to 25); both copies are translated, and the notes of each use the other to correct misreadings. Gaps: page images 56 to 64 (end of March and most of April 1793), images 168 to 176 (4 April to about 8 June 1794), and a lost stretch in the second August 1794 copy between lines 9830 and 9832 (27 to about 30 August 1794).
+- Misreadings in A363595 that may recur elsewhere: *Pferde* for *Klocke*; *Speiſen* or *Waſchen* for *Sprechen*; *Caß* or *Caſe* for *Caap*; *Gottentotten* for *Hottentotten* (lines 11217 to 11374, where the normalised column has *Khoikhoi*); *Br.* for *Hr.* before the names of officials and visitors in Marsveld's and Schwinn's reports; and wrong day numbers (the December 1794 diary has 14th for Sunday 7 December).
+- Next: **A363349** (Dutch, 16,455 rows). It overlaps A363595 in time (April 1793 to 1798); cross-check the Dutch against the German translations where they cover the same months.
+- A363349 is too large for one session. Work in batches of about 10 entries per session and per pull request.
 
 ## How to translate a file
 
@@ -39,6 +38,7 @@ This repository holds machine-readable transcriptions of the Moravian mission di
 
 - The transcription is automatic (handwritten text recognition). Expect misread words and lost lines.
 - The normalised column mishandles page breaks: dropped or doubled catchwords, repeated syllables (*würwürde*), stray fragments (*Tau.* for the end of *gethan*). Rows starting `<pb` are page markers, not text.
+- The diplomatic and normalised columns are sometimes out of step by a line or more (A363595 lines 915 to 922 and 9025). Packets and line markers follow the normalised column.
 - Line IDs are zero-padded below 100 and unpadded from 100 (`..._00099`, `..._100`). A363349 has 18 repeated IDs in its register section; gaps in the numbering are in the source.
 - Archive shelf marks sometimes appear in the text (*P.A.I. R.5.E. 6.* at the head of A363596, *PAIRSE 12* in A363597). Leave them untranslated with a note.
 - The English and Afrikaans columns in `data/` are unreliable line-by-line machine translations. Do not use them.
