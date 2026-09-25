@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+message: >-
+  If you use these texts or translations, cite this repository by file, line ID
+  and release, and cite the edition by Garcés Pérez and Lasch as the source of
+  the transcriptions.
+type: dataset
+title: "Genadendal Diaries: transcriptions and English translations"
+abstract: >-
+  Machine-readable transcriptions of the Moravian mission diaries of
+  Baviaanskloof (Genadendal), 1792 to 1805, extracted from the Zenodo edition by
+  Garcés Pérez and Lasch, with new English translations made entry by entry and
+  labelled by review status.
+authors:
+  - family-names: Garcés Pérez
+    given-names: Juan Luis
+    affiliation: SLUB Dresden
+  - family-names: Lasch
+    given-names: Alexander
+    affiliation: Technische Universität Dresden
+  - family-names: Haupt
+    given-names: Michael
+  - name: Het Utrechts Archief
+    city: Utrecht
+    country: NL
+license: CC-BY-4.0
+repository-code: "https://github.com/mbh66/genadendal-diaries"
+keywords:
+  - Genadendal
+  - Baviaanskloof
+  - Moravian Church
+  - mission diaries
+  - Khoekhoe history
+  - Western Cape
+references:
+  - type: data
+    title: >-
+      Multilingual working and reading versions of the "Genadendal Diaries"
+      from the Utrecht Archives
+    authors:
+      - family-names: Garcés Pérez
+        given-names: Juan Luis
+        affiliation: SLUB Dresden
+      - family-names: Lasch
+        given-names: Alexander
+        affiliation: Technische Universität Dresden
+    version: "0.3"
+    date-released: 2025-12-30
+    doi: 10.5281/zenodo.18095167
+    license: CC-BY-4.0
+    publisher:
+      name: Zenodo
+  - type: edited-work
+    title: The Genadendal Diaries, vol. 1
+    authors:
+      - family-names: Bredekamp
+        given-names: H.C.
+      - family-names: Flegg
+        given-names: A.B.L.
+      - family-names: Plüddemann
+        given-names: H.E.F.
+    editors:
+      - family-names: Bredekamp
+        given-names: H.C.
+      - family-names: Flegg
+        given-names: A.B.L.
+      - family-names: Plüddemann
+        given-names: H.E.F.
+    publisher:
+      name: UWC Institute for Historical Research
+    year: 1992
+    notes: In copyright. Used only to check translations.
