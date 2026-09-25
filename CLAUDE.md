@@ -5,9 +5,11 @@ This repository holds machine-readable transcriptions of the Moravian mission di
 ## Current state (September 2026)
 
 - `translations/en/A363597/` is done: 15 entries, the pilot, all `machine-translation-unreviewed`. Use it as the model for format, tone and notes.
-- Still to translate, in this order: **A363596** (German, 3,398 rows), **A363595** (German, 14,904 rows), **A363349** (Dutch, 16,455 rows).
+- `translations/en/A363596/` is done: 13 entries, March 1795 to March 1796.
+- **A363595** (German, 14,904 rows) is in progress. Entries 01 to 10 cover lines 00002 to 5017 (23 November 1792 to 31 July 1793). The next batch starts with August 1793 at line 5017 (*Den 1. August*); the second diary ends at line 5998 and the third begins at line 6006. The transcription jumps from page image 56 to 64 between lines 2861 and 2863, losing the end of March and most of April 1793. The image numbers also jump at lines 3579 and 4620, but the text runs on there.
+- In A363595 the diplomatic column sometimes runs a few lines behind the normalised column (for example at lines 915 to 922). Packets and line markers follow the normalised column.
+- After A363595: **A363349** (Dutch, 16,455 rows).
 - A363595 and A363349 are too large for one session. Work in batches of about 10 entries per session and per pull request.
-- `.gitignore` may be missing (the first upload was done through the GitHub website, which skips hidden files). If it is, add it with these lines: `work/`, `__pycache__/`, `.DS_Store`, `*.pdf`.
 
 ## How to translate a file
 
