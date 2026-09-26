@@ -18,7 +18,7 @@ licence: CC BY 4.0
 > Machine translation, not yet checked by a reader of the German. Translated from the normalised German and checked against the diplomatic transcription. The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
 <!-- lines 411-413 -->
-Diary of the three Brethren Marsveld, Schwinn and Kühnel at the Cape, from 1 to 31 March 1795 [1].
+Diary of the three Brothers Marsveld, Schwinn and Kühnel at the Cape, from 1 to 31 March 1795 [1].
 
 <!-- lines 414-422 -->
 On 1 March we were visited by the schoolmaster Lohr [2], a German who lives 4 hours from here, together with another man named Rudolph. He too is a German and well known in Neudietendorf. The schoolmaster Lohr also spent 14 days in Dietendorf, but went away from there and became a schoolmaster. He has been here for 10 years. Among other things he said he wondered, when he thought about it, that he had not stayed there.

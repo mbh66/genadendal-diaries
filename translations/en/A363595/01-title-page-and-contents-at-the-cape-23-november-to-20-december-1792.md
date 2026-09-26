@@ -21,10 +21,10 @@ licence: CC BY 4.0
 [Cover and archive labels:] ...tten [1], 1792. 1795. RIJKSARCHIEF IN UTRECHT. ARCHIEF EVANG. BROEDERGEM. ZEIST. Z. Z. G. 1143 [2].
 
 <!-- lines 00012-00027 -->
-Contents: I. Diary of the 3 Brethren Hendrik Marsveld, Daniel Schwinn and Joh. Christian Kühnel, 23.11.1792 to 31.3.1793, pages 1 to 112. II. Diary of the 3 Brethren Marsveld, Schwinn and Kühnel, 1.4. to 31.8.1793, [pages] 1 to 132. III. Diary of the 3 Brethren named above, 1.9.1793 to 9.4.1794, [pages] 1 to 90. IV. Diary of the three Brethren named above for the month of June 1794, [pages] 1 to 24. V. [The same] for the month of July 1794, [pages] (1 to 10). (Duplicate or reworking of V.) VI. EVANGELISCHE BROEDERGEMEENTE ZEIST. ARCHIEF [3].
+Contents: I. Diary of the 3 Brothers Hendrik Marsveld, Daniel Schwinn and Joh. Christian Kühnel, 23.11.1792 to 31.3.1793, pages 1 to 112. II. Diary of the 3 Brothers Marsveld, Schwinn and Kühnel, 1.4. to 31.8.1793, [pages] 1 to 132. III. Diary of the 3 Brethren named above, 1.9.1793 to 9.4.1794, [pages] 1 to 90. IV. Diary of the three Brethren named above for the month of June 1794, [pages] 1 to 24. V. [The same] for the month of July 1794, [pages] (1 to 10). (Duplicate or reworking of V.) VI. EVANGELISCHE BROEDERGEMEENTE ZEIST. ARCHIEF [3].
 
 <!-- lines 00029-00035 -->
-I. Diary of the 3 Brethren Heinrich Marsveld, Daniel Schwinn and Johann Christian Kühnel, of their stay at the Cape and their further journey into the country, in the year 1792 to 31 March 1793.
+I. Diary of the 3 Brothers Heinrich Marsveld, Daniel Schwinn and Johann Christian Kühnel, of their stay at the Cape and their further journey into the country, in the year 1792 to 31 March 1793.
 
 <!-- lines 00036-00056 -->
 From 23 November to 20 December we stayed in the town. In these 4 weeks we became acquainted with many people in the town. There is a society of people here who hold meetings together twice a week. We were invited to it at once; more than 60 belong to the society. There really are many very dear people among them, who want to be saved only through the merit of Jesus and seek forgiveness of sins at Jesus' feet. Their meetings are also conducted quite simply. They have read the *Idea fidei fratrum* with blessing [4]. They say that this book has removed a great many false ideas about the Brethren.
