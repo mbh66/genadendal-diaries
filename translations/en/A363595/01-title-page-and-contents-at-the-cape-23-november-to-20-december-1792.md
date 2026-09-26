@@ -62,7 +62,7 @@ On the 19th we took leave of the commander, commended ourselves to his protectio
 8. *Cluͤde*: probably Hendrik Cloete, owner of Groot Constantia, the estate that produced the famous Constantia wine. He is probably also the "Mr Claude" of A363596, entry 03, who bought land near the mission in 1795. To be checked.
 9. The transcription reads *bey unſerm jezu Bruder Schmidt*; the normalised column has *jetzigen*, "present". Georg Schmidt, the first Moravian missionary at Baviaanskloof (1737 to 1744), had died in 1785, so "present" makes no sense. The word may be a misread *ſel.* (*selig*, "the late"). To be checked against the image.
 10. *ein geborner Caper*: a man born at the Cape.
-11. The Governor, Cornelis Jacob van de Graaff, had left the Cape in 1791; the acting head of government in December 1792 was Johan Isaac Rhenius. He may be the "commander Reenius" of A363596, entry 03.
+11. The Governor, Cornelis Jacob van de Graaff, had left the Cape in 1791; the acting head of government in December 1792 was Johan Isaac Rhenius. He may be the "commander Rhenius" of A363596, entry 03.
 12. The transcription reads *daß er uns in Craale brächte*; the normalised column has *nach Kraal*. A kraal (Dutch *kraal*) was a Khoekhoe settlement of huts, and also a cattle enclosure. The sense seems to be "among the kraals" of the Khoekhoe.
 13. Georg Schmidt, who worked at Baviaanskloof from 1737 to 1744.
 14. *die Tigerhoek*: a farm and area on the Sonderend River, east of Baviaanskloof.
