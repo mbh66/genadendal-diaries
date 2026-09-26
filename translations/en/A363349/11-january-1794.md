@@ -23,62 +23,76 @@ On 1 January 1794 the sermon was again well attended. In the afternoon we three 
 <!-- lines 3880-4276 -->
 [Lines 3880 to 4276 fall in the middle of the sentence above. They repeat, almost line for line, lines 3096 to 3491 (entries 07 to 09, September to 13 November 1793): the edition gives manuscript images 50 to 56 twice. The repeat is not translated again. It has five lines that the first copy lost, and they confirm the readings supplied there from the German diary; see note 2.]
 
-<!-- lines 4279-4302 -->
+<!-- lines 4279-4282 -->
 On the 2nd we began to keep school again. A woman came forward and said that it was her whole mind to live only for the Saviour, and asked that we would accept her.
 
+<!-- lines 4282-4290 -->
 Since we keep hearing more and more that the land at the Sergeants River is to be given away, and also that a place for a farmer is to be laid out in our neighbourhood, we are in greater difficulty; for then our place is as good as lost. So we resolved to let Brother Marsveld go to the Cape, in order to learn the truth from the government.
 
+<!-- lines 4290-4302 -->
 On the 4th towards evening Andreas Otto came and said that by order of the Landdrost he was to inspect a certain tract of land in our neighbourhood where a gentleman wished to settle. The place in view is 20 minutes from us [3]. Now by the laws of the land every colonist must have his land free for half an hour round about, and so we would be on his land, and the Hottentots would not be able to stay here at all. This matter is quite incomprehensible to us, and so we resolved all the sooner that Brother Marsveld should set out on his journey to the Cape on the 6th.
 
-<!-- lines 4302-4321 -->
+<!-- lines 4302-4309 -->
 On the 5th 6 gentlemen and 7 ladies came here from Hottentots Holland [to attend] the sermon, [and they could not] wonder enough at the stillness of the Hottentots and their fine singing [4]. Before midday they drove on to Teunis junior.
 
+<!-- lines 4309-4321 -->
 Today we held our conference, and together implored the Saviour to stand by us in our anxious circumstances. Two persons were accepted among the candidates for baptism. We also thought of tomorrow's festival [5], and would gladly have had the freedom to propose some for holy baptism. But since Brother Marsveld's journey allows no delay, and on such occasions we like to be all 3 together, it was resolved to put off the keeping of this day for this time.
 
-<!-- lines 4321-4337 -->
+<!-- lines 4321-4331 -->
 On the 6th early in the morning Brother Marsveld left, accompanied by our best wishes for his blessing, together with a Hottentot. Most of those living here who had been here on leave also went back to the Cape. Several declared that what hurt them most in going away was that they could no longer hear God's word. We told them that the Saviour, who is present everywhere, would hear them when they prayed to him and stayed with him.
 
+<!-- lines 4331-4337 -->
 On the 8th 2 women came who have no rest day or night for longing to become children of God. On the 9th some more came with the same longing [6].
 
-<!-- lines 4337-4369 -->
+<!-- lines 4337-4342 -->
 On the 10th a woman revealed to us that she had recently got drunk and been left lying on the road, and for that her husband had given her something of a beating. We told her that she had well deserved it, which she also admitted. They are often very open-hearted.
 
+<!-- lines 4343-4369 -->
 On the 11th there were 4 with us who made known a great longing to be saved. One who has recently become a candidate for baptism said that her thoughts did not yet stand still, but her great thought was, after all, to live for the Saviour. Today we had to speak seriously with the children, because they had behaved badly; big and small wept very much. We spoke about it with the parents, who then punished the children who had deserved it. 2 girls of about 17 years, who had not been present, came to us afterwards in the greatest distress, because the others had said that they might no longer come to school or to the meetings, for they had got drunk during the harvest and behaved badly. They promised to do everything well, and to that extent we allowed them to come to school again. This permission matters very much to them. The late Brother Schmidt often complained that they had no liking for learning. So far we have had no cause for that: even if it lasted from early morning until evening, they would not grow tired, and they are also very punctual at the appointed time.
 
-<!-- lines 4369-4390 -->
+<!-- lines 4369-4382 -->
 On the 12th only the smallest part of the hearers could find room at the sermon. We had thought that since most of the men went away we would have more room; but so many appear who live far from here that we do not know where all the people come from. In the afternoon Teunis was here with Mr Ferscke from the Cape, a son-in-law of a certain Mr David [7]. This is the one who has to allot the places for new colonists; and his son-in-law, who looked at everything here, said that he would report to his father[-in-law] how things stand with us here, and that the purpose would not be achieved here. In our difficulty this was some comfort to us.
 
+<!-- lines 4382-4388 -->
 On the 14th 6 women and 4 children came, seeking leave to come to school and to the meetings. For some time there has been a special [stir]; not a day passes without some making known their concern to be saved [8].
 
+<!-- lines 4388-4390 -->
 On the 16th towards evening Brother Marsveld came back to us safely. He reports the following of this journey:
 
-<!-- lines 4391-4415 -->
+<!-- lines 4391-4412 -->
 "On 6 January I left with the blessing of my brothers, in company with a Hottentot who was to show me the way between the mountains and rocks. On the 7th in the afternoon I came to Stellenbosch, whose Landdrost has command over our district. Not finding him at home, I rode half an hour further to a farmer and spent the night there. On the 8th early I looked for the Landdrost again and then found him at home. I put before him the reason for my coming and the cause of our difficulty, appealing to our documents and to the protection he owes us. He gave me to understand in reply that the opinion of the Honourable Company and [the] fatherland is that we should go to the Bushmen, to make peace there; for the rest, I should speak about it with the Honourable Commissioner at the Cape [9], for he could do nothing further in this matter. So I travelled on, and on the evening of the following day arrived at our friend Schmidt's in Cape Town.
 
+<!-- lines 4413-4415 -->
 "On the 9th I went to the Commissioner, and after he had heard everything and examined my papers, he said that I should come for an answer the day after tomorrow [10].
 
-<!-- lines 4416-4440 -->
+<!-- lines 4416-4427 -->
 "Commandant Rhenius, whom I then visited, promised to do everything in his power in our matter. From there I went to Colonel Gordon, by whom I was received very kindly. He was to dine that day with the Commissioner, and faithfully promised to speak for us. Meanwhile I dined with his family, with whom I had pleasant conversations. I visited more friends, who were glad of the blessing on our mission.
 
+<!-- lines 4427-4440 -->
 "On the 12th I went to the Governor for the answer. He told me that I could go home comforted: as for our place, what had been proposed would be changed. He wished us God's blessing. I would gladly have had something in writing about it, but he gave me to understand that what we already had is now clear and plain enough. I proposed buying the land, but he thought that was not necessary. Nor would we be taxed. He went on: 'The previous Commissioners allowed you to live there, and so it shall remain.' On the 14th I began the return journey again, and on the 16th arrived with my dear brothers."
 
-<!-- lines 4440-4454 -->
+<!-- lines 4440-4448 -->
 On the 17th Brother Marsveld gave a full report of what had befallen him at the Cape. We also learned from him that we may no longer use our bell, for complaints had again been made about it to the government. Now it is forbidden us altogether. We made this known to our Hottentots in the meeting in the evening, and now they must [consider] how they can come to the meeting at the right time in future [11].
 
+<!-- lines 4448-4454 -->
 On the 21st the candidates for baptism were spoken, and in general we could rejoice at their open-hearted declarations.
 
-<!-- lines 4454-4474 -->
+<!-- lines 4454-4465 -->
 On the 23rd a small child was buried, and towards evening its mother died too. We had not been able to speak much with her, since during her illness she was seldom in her right mind. At present many are ill, among others two of our candidates for baptism. One cannot visit them without pity, because of their great poverty. They lie on a sheepskin spread out on the ground; another skin covers them, and the tobacco bag is their pillow, which is all they have for their comfort.
 
+<!-- lines 4465-4474 -->
 On the 25th in our conference 3 persons were chosen for holy baptism, and for the first time 2 men, namely the husband[s] of [our Anna Maria and Eva; the third is a woman who formerly] had a Negro slave for her husband, but is now quite separated from him [12]. We resolved to perform this baptism on a weekday, because on Sunday it is all too full with us. This took place on the 28th with a powerful feeling of the presence of God. The baptised were named Jacob, Johannes and Hanna.
 
-<!-- lines 4474-4489 -->
+<!-- lines 4474-4476 -->
 In the afternoon we held a lovefeast with our 10 baptised, where the Saviour graciously owned us.
 
+<!-- lines 4477-4482 -->
 On the 30th a woman came to us who was especially uneasy. While still some distance from us she burst into loud weeping, and for weeping could say nothing except that her heart was so troubled.
 
+<!-- lines 4482-4486 -->
 On the 31st 2 families came from the Tigerhoek, 8 hours from here, meaning to live here and with a longing to be converted.
 
+<!-- lines 4486-4489 -->
 Since more of our people are now beginning to read, we resolved to begin a kind of catechising, so that they may also understand what they read.
 
 ## Notes

@@ -17,9 +17,10 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column. There is no German diary for these months; the Dutch file holds a second copy of the same reports (from line 12958), which was used to fill lost lines and settle readings. The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 12199-12212 -->
+<!-- lines 12199-12206 -->
 Reports of the mission among the Hottentots, from 20 May 1797 to 28 February 1798 [1].
 
+<!-- lines 12208-12212 -->
 Reports from the diary of the missionaries among the Hottentots at Baviaanskloof, from 20 May to 31 October 1797.
 
 <!-- lines 12213-12223 -->

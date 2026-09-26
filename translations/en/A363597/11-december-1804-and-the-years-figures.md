@@ -31,7 +31,7 @@ Since a large part of our Hottentots had gone some time before to the neighbouri
 <!-- lines 1726-1733 -->
 On 11 December a transport of 28 newly recruited Hottentots passed through here. The commander of this very brave corps (the Hottentot corps), a [3] ... for some food for his hungry men, who were like their (?) [4], which we gave them as well as we could.
 
-<!-- lines 1734-1753 -->
+<!-- lines 1734-1754 -->
 In these days a European sister, passing by chance, was called into a Hottentot hut and found there a Hottentot woman, lately arrived, lying ill. She said: "Here I lie, receiving from God the punishment I have deserved. I was told often enough what is right and what is wrong, but I would not listen; I stopped my heart and my ears. But now terror and trembling come over me when I think of dying, for I can expect nothing else than to be lost for ever." The sister urged her to thank God for revealing to her the state of her soul and for leaving her enough time to care for her eternal welfare. Now she should turn to her Redeemer without delay, for he would hear her, since his grace is greater than her sins and misery. The sick woman was very grateful for this encouragement and was visited often afterwards.
 
 <!-- lines 1755-1773 -->
@@ -46,7 +46,7 @@ In the year 1804, 14 adults and 15 children were baptised. 9 baptised persons we
 ## Notes
 
 1. *eine Geschwulst derselben*: "a swelling of the same". The word the pronoun refers to seems to be missing.
-2. *von unrer angehörigen Hottent: holen*: the sense is unclear. It may mean from land belonging to our Hottentots, or that our Hottentots had to fetch it.
+2. *von unrer angehörigen Hottent: holen*: the sense is unclear. It may mean from land belonging to the Khoekhoe of the mission, or that they had to fetch it.
 3. Line 1730 is missing from the source file, and the sentence cannot be rebuilt from what remains (*ein ries, um einige Nahrungsmittel für seine hungrigen Leute*). The commander seems to have asked for food for his men.
 4. The transcription itself has *(?)* here, marking a word it could not read.
 5. *heimgegangen*, "gone home": died.

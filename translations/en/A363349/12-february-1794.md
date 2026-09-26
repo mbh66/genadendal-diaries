@@ -17,34 +17,43 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column and against the German diary of the same months (A363595). The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 4489-4504 -->
+<!-- lines 4489-4490 -->
 [The catechising, for which see the end of entry 11,] took place on 1 February for the first time, with old and young [1].
 
+<!-- lines 4490-4504 -->
 Brother Kühnel visited some sick people, among them a girl of about 16 years who seemed to be near her end. We know her as an awakened soul, who has shed many a tear in the meetings. Weak as she was, she knew Brother Kühnel at once and greeted him very warmly. He asked her whether she had already thought about dying, which she answered with a cheerful yes. Question: whether she had asked the dear Saviour for forgiveness of her sins? Answer: yes. Question: whether she could believe that he would have mercy on her and accept her? Answer: "Yes! He will have mercy on me." Brother Kühnel then said a prayer over her, with a comforting feeling. Many were present.
 
-<!-- lines 4504-4536 -->
+<!-- lines 4504-4507 -->
 On the 4th another family came to live here. Every day some reveal their longing to be saved.
 
-On the 5th in our conference Martha was accepted as a confirmand, and Sarah and Eva as candidates for Communion, and one more person to receive holy baptism.
+<!-- lines 4507-4510 -->
+On the 5th in our conference Martha was accepted as a confirmand, and Sara and Eva as candidates for Communion, and one more person to receive holy baptism.
 
+<!-- lines 4510-4523 -->
 On the 9th our Rahel, who was also ill, went into labour too early [2]. The child died soon after the birth. She sent to ask us how the burial should be done. From the beginning we had chosen a place to bury our baptised; and since this was the child of a baptised woman, which we would likewise have baptised had it stayed alive, we resolved to make a beginning with this little body, and it was buried on the 10th.
 
+<!-- lines 4523-4536 -->
 Today a sick candidate for baptism, the daughter of our brother and sister Jacob and Anna Maria, also went into labour before her time and was very weak. Brother Kühnel visited her, and she answered all his questions with great comfort. She said: "I leave myself wholly to the Saviour, and keep praying to him to have mercy on me." At midnight we were woken by Jacob, who came to tell us that his daughter was very weak. Brothers Marsveld and Schwinn went with him, but she was no longer in her right mind. At our direction those present sang some verses, and during this singing she passed away.
 
-<!-- lines 4536-4556 -->
+<!-- lines 4536-4536 -->
 On the 11th was the baptism [so the transcription] of Magdalena [3].
 
+<!-- lines 4537-4543 -->
 At this time we had much to do with visiting, for big and small, some 30 lay ill. On such visits a crowd gathers at once and goes along from kraal to kraal.
 
+<!-- lines 4543-4547 -->
 On the 15th a large family came from the Tigerhoek to live here and hear God's word. In these days 2 more children were buried.
 
+<!-- lines 4547-4556 -->
 On the 22nd Brother Marsveld was attacked by strong pain in all his limbs, which [came] with chills, fever and headache [4]; [we were all the more troubled,] because no doctor is to be had here. We were given a small medicine chest to bring with us, but do not know how to make use of it. On the 23rd he was somewhat better, but Brother Kühnel had the same attack, which laid hold of him very hard. We commended ourselves to the Physician of body and soul.
 
-<!-- lines 4557-4583 -->
+<!-- lines 4557-4562 -->
 On the 24th the keeping of school had to be called off. Brother Kühnel is a little better today, however. We prayed to our Saviour that it might please him not to lay us all on the sickbed at the same time, so that one might be able to help the other.
 
+<!-- lines 4562-4580 -->
 Among the Hottentots the sickness still goes on. 3 of our baptised have been so weak since then that their recovery was doubted; old Lena was among them. It was a pleasure to visit them, because of the blessed state of their hearts. Martha, who had recently become a confirmand for Communion, said: "I wish from my heart still to partake of the body and blood of the Saviour, for I long for it. But if he will take me to himself, then I rest in his will. I no longer cling to my children either." This Martha has also borne many a fine testimony to visitors, of the grace of the Saviour and of faith in him. Now all 3 of them have recovered so far that they can attend the meetings.
 
+<!-- lines 4580-4583 -->
 On the 25th Brothers Marsveld and Kühnel were able to be up again, though both still felt much pain. On the 26th another child was buried.
 
 <!-- lines 4583-4603 -->

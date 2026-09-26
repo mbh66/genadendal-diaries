@@ -50,9 +50,10 @@ On the 26th, as the 2nd holiday, the preaching was at 10 o'clock, and after it 9
 <!-- lines 12784-12809 -->
 It is still to be noted that while we were busy building our mill, two Hottentots were kept from harm in a special way. Over the foot of the one, while he was breaking stones, crept one of the most poisonous snakes, without hurting him. The other, who had been moulding bricks and had laid his jacket on the ground meanwhile, noticed a strange movement on his body after he had come home from work, and to both meetings [8]. As this movement grew stronger, he took off his jacket when he came into the kitchen to eat, to search it. And behold! a snake had crept into it, of which only the head with its tongue put out was to be seen. When a shout went up in the kitchen at this, we ran to it, and Brother Schwinn trod on the snake's head before it had harmed anyone. It was of a poisonous kind, and more than half an ell long.
 
-<!-- lines 12810-12821 -->
+<!-- lines 12810-12814 -->
 In this year 1797, 24 adults and 11 children have been baptised. 3 persons have come to Communion. At the end of the year the congregation of the Hottentots consisted of [9]:
 
+<!-- lines 12815-12821 -->
 18 communicants
 5 candidates for Communion
 42 baptised adults

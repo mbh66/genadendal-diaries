@@ -17,9 +17,10 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the German. Translated from the normalised German and checked against the diplomatic transcription. The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 00002-00024 -->
+<!-- lines 00002-00004 -->
 Diary of the Hottentot congregation in Baviaanskloof. From May 1803 to February 1804.
 
+<!-- lines 00005-00024 -->
 Several of our Hottentots, especially the older ones, find it very hard to commit anything from God's Word to memory, because they know little Dutch. Yet we wish that those who want to advance in the graces of the congregation and grow in the knowledge of Jesus Christ should be able to do so. It was therefore thought good to call the candidates for Holy Communion together on their own from time to time in future, and to talk with them about Holy Communion, so that in this way too they might gain a truer understanding of it. Brother Rose made a start on 2 May, and the Hottentots showed themselves very grateful for this instruction.
 
 <!-- lines 00025-00031 -->

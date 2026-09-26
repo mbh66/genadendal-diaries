@@ -139,7 +139,7 @@ When a reading is settled, correct the translation and its note, and delete the 
 | 276b (000276) | 13324 | *ein Stük aus der Loſung* | *Litaney*, "the litany" | [entry 30, note 5](../translations/en/A363595/30-january-1795.md) |
 | 282a (000282) | 13598 | *die Piſtolan* | *Epiſteln*, or a word for books or letters | [entry 30, note 17](../translations/en/A363595/30-january-1795.md) |
 | 283b (000283) | 13677 | *der Weinſtöck, Wolke, ſten* | names, garbled | [entry 30, note 21](../translations/en/A363595/30-january-1795.md) |
-| 286b (000286) | 13826 | *Chelands*; *Röffenüwehr* | places on the eastern frontier | [entry 30, note 26](../translations/en/A363595/30-january-1795.md) |
+| 286b (000286) | 13826 | *Chelands*; *Röffenüwehr* | places on the eastern frontier; the Dutch has "nearest of all to the Kaffers" | [entry 30, note 26](../translations/en/A363595/30-january-1795.md) |
 | 300b (000300) | 14520 | *viele verhaßt* | *verreckt* or *verloren*, "died" or "lost" | [entry 31, note 10](../translations/en/A363595/31-february-1795.md) |
 | 306a (000306) | 14798 | *die Dſchanna* | *Tenne*, "threshing floor"; A363349 has *Kom*, "basin" | [entry 31, note 24](../translations/en/A363595/31-february-1795.md) |
 

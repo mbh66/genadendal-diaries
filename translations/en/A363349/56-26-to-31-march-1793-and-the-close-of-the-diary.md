@@ -17,9 +17,10 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column and against the German diary of the same months (A363595, entry 06). The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 15338-15349 -->
+<!-- lines 15338-15339 -->
 Now the following is further reported in the diary broken off above [1]:
 
+<!-- lines 15340-15349 -->
 On 26 March, being together again, we agreed to begin the instruction promised to the Hottentots, which they longed for very much. Accordingly we made known to them that a start would be made with it tomorrow, an hour before sunset, for the old people only. Today the Hottentots worked for nothing on the water channel that is to be restored. Many offered to go on with this work for nothing; but their poverty is so great that we could not ask it of them [2].
 
 <!-- lines 15351-15376 -->
@@ -34,11 +35,13 @@ On the 30th we held a conference to consider matters concerning the Hottentots [
 <!-- lines 15433-15453 -->
 On 31 March, being Easter Sunday, we prayed the Brethren's Easter liturgy early in the morning in our room [10]. At 10 o'clock there was the sermon on the usual Gospel for Easter Day. 44 Hottentots were present, as attentive and quiet as one hardly finds in a Christian church. Among these 44 there were no children. We did wish, though, that the children over 12 years old could also be present, both at the sermon and at the daily instruction in the truths, which is held in the evening; this would be very necessary. But the space in the room, nine ells in length and 7 in breadth, is not big enough for 50 listeners, whose number is set to grow larger still, as we hear that many wish to come and live with us. When we came here, not a single house stood here yet, and now there are already 13 in the neighbourhood of our dwelling.
 
-<!-- lines 15454-15477 -->
+<!-- lines 15454-15470 -->
 With this we close our diary for this time, trusting in faith that God [...] [will not let it be] put out, but that it will burn so that his name may be glorified by this despised people too [11]. Help us poor ones, my dear brothers and sisters, to beg of our kind Lord and Saviour what we need for carrying out his service among these poor blind Hottentots. To this end we commend ourselves and our Hottentots to the prayers and remembrance of the whole Unity of Brethren, as your 3 brethren united with you.
 
+<!-- lines 15471-15474 -->
 (Signed) Hendrik Marsveld, Daniel Schwinn and Johann Christian Kühnel [12].
 
+<!-- lines 15475-15477 -->
 Dated at Baviaanskloof on the Sergeants River in Africa, 31 March 1793.
 
 <!-- lines 15478-15486 -->

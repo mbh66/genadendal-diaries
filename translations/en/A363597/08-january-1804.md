@@ -17,11 +17,13 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the German. Translated from the normalised German and checked against the diplomatic transcription. The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 1221-1244 -->
+<!-- lines 1221-1221 -->
 1804.
 
+<!-- lines 1223-1223 -->
 The year 1804.
 
+<!-- lines 1224-1244 -->
 The sermon on New Year's Day was so well attended that for lack of benches many had to sit on the ground. In the afternoon most of the visitors went home again. Most of them took leave of us with tears, spoke of their joy at their visit, and asked us to remember them in prayer before our dear Lord. Some women who are troubled about the salvation of their souls were especially moved, and we commended to them Jesus' love for sinners. Several black slaves also came to us to say goodbye and to give thanks for the words they had heard here.
 
 <!-- lines 1244-1263 -->

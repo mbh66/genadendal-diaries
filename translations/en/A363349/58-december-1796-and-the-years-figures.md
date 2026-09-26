@@ -50,15 +50,17 @@ On the 31st 15 persons came to visit us, who explained the purpose of their comi
 <!-- lines 15692-15713 -->
 The number of those living with us has increased greatly, especially in November and December; for many who lived here at the beginning, but afterwards moved away again, or whom we ourselves advised to do so in those distressing circumstances, have come to us anew, and among them many new people. [...] number might not be so great, since we cannot oversee the multitude as we ought [6]. But what shall we do? When they come here, driven by hunger for God's word and by longing to be saved, and ask us for leave to live with us: then we cannot turn them away: we are here, after all, for the sake of such as want to learn to know the way of salvation.
 
-<!-- lines 15714-15736 -->
+<!-- lines 15714-15726 -->
 We cannot give the number of those who live here now. The children who go to school make up a number of 173 at the end of the year, namely 93 boys and 80 girls. In this year 12 adults and 6 children have been baptised. 6 persons have been admitted to Holy Communion. 13 have become candidates for baptism, and 6 persons candidates for Communion. The congregation from among the Hottentots consists at the close of the year 1796 of:
 
+<!-- lines 15727-15733 -->
 15 communicants
 5 candidates for Communion
 29 baptised adults
 9 baptised children
 and 25 candidates for baptism
 
+<!-- lines 15734-15736 -->
 in all 83 persons [7]; 20 more than in the previous year. One adult and one child have died.
 
 ## Notes

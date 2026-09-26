@@ -17,9 +17,10 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column and against the German diary of the same months (A363595). The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 2911-2947 -->
+<!-- lines 2911-2911 -->
 "Very worthy and heartily beloved brethren,
 
+<!-- lines 2912-2947 -->
 "Wishing you all good in soul and body, I let you know by this that I and my family still enjoy good health under the protection of the infinitely loving God. Your letter of 11 August [1] has duly reached me. To me, the most unworthy of sinners, mercy has been shown. How infinitely am I not bound to my divine Redeemer, who has counted me, an unworthy sinner, worthy to be an instrument in his hand for providing a sheep of his flock with the first clothes to cover her body. May he make me heartily thankful for this grace he has counted me worthy of, and give me steadfastly the spirit of grace and of prayer, so that by it, as I go on, I may obtain from his fullness everything I need to continue my way as a pilgrim through this wilderness with joy. Ah, might I always find that my heart was burning with love for Jesus; ah, might I be moved with gratitude like the newborn sister for the manifold benefits I enjoy from him daily; ah, might I constantly prove what is pleasing in his eyes, and learn daily to understand better what I ought to do. But alas! In that I still fall far short. God be praised that our Redeemer, sitting on the throne of his Father, ever lives to pray for us ungrateful creatures, as Paul says [2].
 
 <!-- lines 2947-2981 -->
@@ -31,11 +32,13 @@ licence: CC BY 4.0
 <!-- lines 3013-3031 -->
 "In the chest that goes with this you will find things for our Anna Maria. I meant to make her a richer present, but having something still to settle, I must put it off until that is done; then I will send it to you, to be distributed in the Hottentot congregation of our King Jesus, as you judge best, among the neediest; on the understanding that it is known only to you and not to others. Herewith also a letter from another good friend, who sent a little piece of striped cloth with the first parcel, as a token of the fruit of your labour for her soul.
 
-<!-- lines 3032-3064 -->
+<!-- lines 3032-3059 -->
 "I will now end my letter, commending you all and your little flock to the keeping and care of the Head of his congregation, which he has purchased with his own blood. May he keep and shelter all under the wings of his grace. May he comfort you by his Spirit and grace, and when we have served his counsel here on earth, may he bring us over into the regions of eternal and blessed light, so that there we may enjoy his nearness undisturbed for ever, out of free grace, for the sake of the merits of his suffering and dying. Amen! I commend myself to your daily intercession, that in this evil time I may be kept from the hour of temptation that shall come upon all the world; for the devil goes about like a roaring lion, seeking whom he may devour. Receive the heartiest greetings from me and my children, as also from Juffrouw Schenk, van Lier, Reinevelt, Sohnit, Slootman [6] and all the other friends. The peace of God be with you, and may the God and Father of our Lord Jesus Christ be the Father of us all. Amen!
 
+<!-- lines 3060-3063 -->
 "Cape, 20 August 1793. Your friend, D. W. Smith [7].
 
+<!-- lines 3064-3064 -->
 "NB: On 17 August I turned 44."
 
 ## Notes

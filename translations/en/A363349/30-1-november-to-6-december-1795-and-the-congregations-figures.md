@@ -18,7 +18,7 @@ licence: CC BY 4.0
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column and against the German diary of the same weeks (A363596, entry 10). The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
 <!-- lines 11310-11327 -->
-On 1 November 3 persons were baptised into the death of Jesus, named Margaretha, Alide and Esther. Today we saw a wagon coming towards us across the river; but the water in the river being swollen exceedingly high, no wagon could get across, and so this wagon too had to turn back. Our guess was that the English officers would be in it who had sent word to us of their coming, and whose visit would have been very welcome to us [1]. The rainy weather was so lasting that we have had to let the school drop. For it has to be held under the pear tree, since for want of room it could not possibly be held in the house.
+On 1 November 3 persons were baptised into the death of Jesus, named Margaretha, Alida and Esther. Today we saw a wagon coming towards us across the river; but the water in the river being swollen exceedingly high, no wagon could get across, and so this wagon too had to turn back. Our guess was that the English officers would be in it who had sent word to us of their coming, and whose visit would have been very welcome to us [1]. The rainy weather was so lasting that we have had to let the school drop. For it has to be held under the pear tree, since for want of room it could not possibly be held in the house.
 
 <!-- lines 11328-11337 -->
 On 13 November we celebrated, among other things, with a lovefeast with our baptised. One of the 2 excluded was accepted again [2]. At it we remembered our dear congregations in Europe and the mission posts among the heathen, of which we told our Hottentots a great deal. This gave occasion to a repeated wish that our brothers in Holland might be urged to translate accounts of our mission posts for the use of our Hottentots, which we are not able to do [3].
@@ -32,9 +32,10 @@ On 22 November we were visited by the gentlemen Hoffman, Andreas Otto, and Claud
 <!-- lines 11378-11411 -->
 He came back on 6 December and gave us the following report of the carrying out of his commission: "On 1 December I waited upon General Craig, and asked him to allow us to fell building timber for a meeting house. He said that I must speak with the Landdrost about it, and he must give him his advice on it. At this I went to the Landdrost of Stellenbosch, who received me kindly, and promised to give me a letter to the General. I received this letter on 2 December [8], and handed it to the General, who was well satisfied with it. I took the opportunity at this to make the General acquainted with our many missions among the heathen in the English islands, which all enjoy the favourable protection of the King of England [9]. He said that we should go on with our work without fear, and if we were hindered in it, we should just let him know. On 3 December I received from him a written permission to have building timber felled for a meeting house. The watchword on this day was very remarkable, running thus in the High German translation: 'Thy servants would gladly see Zion built, and her stones and lime made ready.' Psalm 102:15 [10]. With this joyful permission I set out on 4 December on my journey back from the Cape, and on the 6th arrived again with my dear brothers."
 
-<!-- lines 11412-11429 -->
+<!-- lines 11412-11416 -->
 At the close of this diary the little Hottentot congregation consists of:
 
+<!-- lines 11417-11422 -->
 8 communicants
 3 candidates for Communion [11]
 18 baptised adults
@@ -42,8 +43,10 @@ At the close of this diary the little Hottentot congregation consists of:
 29 candidates for baptism
 Total 62 persons,
 
+<!-- lines 11423-11426 -->
 all of whom, together with the whole people of the Hottentots and ourselves, we commend urgently to the remembrance and intercession of all brothers and sisters.
 
+<!-- lines 11427-11429 -->
 Hendrik Marsveld, Daniel Schwinn, Joh. Christ. Kühnel.
 
 ## Notes

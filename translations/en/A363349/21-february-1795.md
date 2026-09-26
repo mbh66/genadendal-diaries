@@ -74,9 +74,10 @@ Our longing also grows greater daily to get a place where we can hold meetings a
 <!-- lines 8839-8865 -->
 On the 28th. Today being 2 years since we moved into our house, in our evening meeting we brought our dear Lord and Saviour our most heartfelt thanks in a prayer on our knees, for his gracious protection and help through these 2 years, and also for the blessing which he has visibly laid on the stammering of his 3 poor brothers [28]; and we asked him for forgiveness where we had not done, thought and acted according to the mind of his heart, and that he would go on with his mercy and help us through in the time to come, and give us all that we shall need as faithful servants [29]. For some time the Spirit of God has been especially at work in the hearts of the Hottentots, chiefly among the women. Hardly a day passes, indeed on many a day very many come, mostly new people, who want to speak with us one by one about the unrest of their hearts, and say that they have no rest day or night, cannot sleep, and pray that they may obtain forgiveness of their sins.
 
-<!-- lines 8866-8889 -->
+<!-- lines 8866-8886 -->
 With this we close our diary for this month again, wishing that you may soon receive it. It is, dear brothers and sisters, almost as if we were quite cut off from you; and not only from you, but from the Cape too. We have various things at the Cape which Brother Marsveld ordered and arranged there to be sent to us at the first opportunity; and although it is already 2 months since, we still do not have them, and do not know the reason either, where the fault lies, unless it be that no farmer will take them along [30]; nor have we received a letter from there since that time. Now, we are all 3 still well and in health, and live in peace and love with one another, and commend ourselves to the prayers and remembrance of all our dear brothers and sisters in the congregations.
 
+<!-- lines 8887-8889 -->
 Hendrik Marsveld, Daniel Schwinn, Joh. Chr. Kühnel
 
 ## Notes
