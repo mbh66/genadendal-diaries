@@ -26,36 +26,43 @@ Diary of the Brothers Marsveld, Schwinn and Kühnel at the Cape, from 1 to 27 Se
 <!-- lines 5041-5056 -->
 Early on 1 September the Hottentot woman [whom the dear Saviour had] assigned [to us] to be accepted among the candidates for baptism came to us of her own accord [2]. We had not yet been able to tell her, since she had been at a farmer's to fetch food. She said that the night before she had dreamed that children had come to her who said that she must come to us; and so, as soon as she was awake, she could not do otherwise than this. So we made known to her that the dear Saviour had given her leave to come to the little meeting and to belong among the candidates for baptism, at which she was very glad.
 
-<!-- lines 5057-5074 -->
+<!-- lines 5057-5064 -->
 On the 3rd we spoke with the candidates for baptism. For the most part we wished that they could express themselves better in words; but one must have patience with that. It does lie on their hearts to live wholly for the Saviour.
 
+<!-- lines 5064-5074 -->
 On the 4th a sick woman sent to ask Brother Kühnel to visit her. When he asked her whether she thought of the Saviour and of his suffering, she said: "I do, and I think that I believe in him; but I do not know it for certain." A candidate for baptism also came to lament that she did not love the Saviour as much as she would like to, nor could, although he has borne so much for our sins.
 
-<!-- lines 5074-5099 -->
+<!-- lines 5074-5091 -->
 On Sunday the 7th [3], early in the morning, 8 Hottentot women and 6 men came from the Breede River, 3 days' journey away on horseback. They had a great wish to come and live here, and could wait no longer. But since they had heard much evil about us from the farmers, they wanted first to come and see and hear for themselves. So many people had come to the meeting that our house could not possibly hold them, so we held it in the open air, as we did the singing meeting on Friday evening, since there was moonlight then. When the moon is dark, however, and when the wind blows hard and raises the dust, this cannot be done.
 
+<!-- lines 5091-5099 -->
 At midday our baptised went to those who had come here this morning, to ask them what the real purpose of their coming was. They answered that they liked it very much here, and that they saw and heard everything quite differently from what the farmers had told them; they had come to hear God's word.
 
 <!-- lines 5099-5122 -->
 Towards evening they all came to us and declared that they liked it very well here, for they wanted to hear God's word, and the 8 women would stay here at once if we allowed them. The men, however, would go home again after some days to fetch their cattle, houses and children from there, and more of their friends too, who also wished to hear God's word here and were waiting there until they had word from them whether all the evil that was said of us was true; then they would all set out together to come and live here. This we gladly allowed them, adding that all who wished to become children of God and to live according to the mind of Christ could come; for that was the purpose for which we had come, to make known to the poor Hottentots the way to salvation.
 
-<!-- lines 5122-5134 -->
+<!-- lines 5122-5127 -->
 On the 8th 3 more women came to lament the unrest of their hearts. [The 8 women came to school today, ask]ed for books, and said that they had a great wish to learn [4]. 2 new children also came to school.
 
+<!-- lines 5127-5134 -->
 On the 9th another woman came with 3 children (of whom the youngest is about 10 years old), who has lived in the Strandveld [5], seven days' journey from here, and asked leave to stay here, in order to hear and learn God's word with her children. 3 more women also came who did not know where to turn for the unrest of their hearts.
 
-<!-- lines 5135-5156 -->
+<!-- lines 5135-5138 -->
 On the 10th we made a beginning with building up a piece of wall in masonry above the ground on the foundation of our new little house, since the rainy season is now over.
 
+<!-- lines 5138-5154 -->
 In the evening our sister Sophia visited us and asked forgiveness for having come so late to the meeting. She said: "I was fetching wood, and that is the reason for my coming late." Question: why did she not use her girl for it? She ought to keep her at work. Answer: she had not been at home today. Question: where was she? Answer: she sat on the mountain among the rocks all day and wept much. Question: about what? Answer: she was so uneasy in her heart, and so troubled that our dear Saviour had had to suffer and bear so much for our sins; and so she had not called her. This girl is about 14 years old.
 
+<!-- lines 5154-5156 -->
 The women's school is now so large that our room can no longer hold those who are still able to learn.
 
-<!-- lines 5157-5176 -->
-On the 12th towards midday we had the joy of welcoming our friend Martin Schmidt with his dear wife and one of his sons. Young Mrs Kunzen and her son came with this company too; the latter left again towards evening. On the 13th a farmer also visited us.
+<!-- lines 5157-5163 -->
+On the 12th towards midday we had the joy of welcoming our friend Martin Schmidt with his dear wife and one of his sons. Young Mrs Kuns and her son came with this company too; the latter left again towards evening. On the 13th a farmer also visited us.
 
+<!-- lines 5163-5168 -->
 On Sunday the 14th, after the meeting, we rode with Father and Mother Schmidt to the kraals, which are an hour from here and which he wanted very much to see. He went, or rather crept, into the dwellings a great deal and looked at everything.
 
+<!-- lines 5168-5176 -->
 On the 15th there was no school for the women, since room is lacking and more come every day; last Saturday another large family arrived here. Father and Mother Schmidt attended the children's school in the morning.
 
 <!-- lines 5176-5203 -->
@@ -67,9 +74,10 @@ Concerning the smallness of our dwelling he said: "That will not do; you must ha
 <!-- lines 5219-5244 -->
 Brother Schwinn rode with him to the post, to speak with Baas Teunis about buying sheep for us. In the evening he came home again. He told us that Father Schmidt had at once spoken with Baas Teunis about building a church. But Baas Teunis had advised against it, and said "that we should give it up and not build much; for," he added, "you cannot keep this place; you must have a bigger one. If it goes on like this, how will they find their living? They must all starve together. It is so: very many more from deep in the country want to move to you, and let nothing keep them back. Only lately I tried to dissuade a party, and put it to them that they would have to starve; they had better stay where they were. Besides, the sickness of which many die was there too, and it would go the same way with them. But they gave me the answer: 'Even if we die, we shall still have heard God's word.'" So our hope of building a church has vanished again.
 
-<!-- lines 5244-5267 -->
+<!-- lines 5244-5262 -->
 On the 18th we were visited by 7 women who had come here on the 13th, and said that they had come so far in order to hear God's word, for which they had had a very great longing. Now they had heard something of it, but afterwards had become so uneasy in their hearts: what could this be? Question: what have you become so uneasy about? Answer: about this, that our dear Lord has had to suffer so much. This led to a pleasant conversation. In the afternoon they all came to school and asked for books, since they had a great wish to learn; they are all still young. We also had a visit from a man who had not been able to sleep the whole night for unrest of heart.
 
+<!-- lines 5262-5267 -->
 On the 19th 2 girls of about 12 years came, who said that they were so troubled that Jesus Christ had had to bear and suffer so much for the sake of their sins; and they too would gladly become children of God.
 
 <!-- lines 5268-5287 -->
@@ -78,9 +86,10 @@ Today we also received a letter from Mr Schönberg at the Cape, who wrote among 
 <!-- lines 5290-5326 -->
 We are in the greatest perplexity. If we only had one honest friend, we should be happy. To leave this place now, on which we have spent so much trouble and cost, and to turn our backs on our garden, from which we now get something to eat, is no small matter. That we have spent so much on this place here was because we believed it would certainly remain ours. For of what we have in writing from the government about it, all who understand the law say that it could not be stronger; even the Governor at the Cape declared that if this did not hold, nothing would hold [8]. It is true that for such a crowd of people, for whose sake after all we came into the country, this place is much too small, the more so since many more are expected. But who could have thought that the dear Saviour would bless us with so many souls hungering for the Gospel? And what shall we do if the government now offers us another place? Ah, if only one of our dear brothers of the Unity Elders' Conference were with us, whose good counsel we could use! This wish grows greater with us from day to day! If we only had at least an answer to our letter about this matter! What can and shall we do now but pray to our dear Saviour to counsel and help us in all circumstances according to his mind, as he has done so far, so that his peaceful purposes with us and these poor Hottentots may be carried out? This is, and shall remain, our prayer to him!
 
-<!-- lines 5326-5341 -->
+<!-- lines 5326-5331 -->
 On the 20th in our conference we put a girl of about 14 years before our dear Lord, to accept her among the candidates for baptism, and he made known to us his approval of it.
 
+<!-- lines 5331-5341 -->
 Today the man died of whom it has already been reported that he was accused of having poisoned a slave [9]. He had not yet been to the Cape, for his child had fallen ill, and when it was better again he was overtaken by an illness. In these days he had sent for Brother Marsveld, who found him very anxious to be saved, and in the feeling about himself that after his death he must be lost for ever. He commended the love of Jesus to him.
 
 <!-- lines 5342-5369 -->
@@ -92,30 +101,34 @@ In these days [our sister Sara was at a farmer's whom we had until] now held to 
 <!-- lines 5385-5389 -->
 This evening we held with our 4 communicants the first lovefeast before Holy Communion, and after it we partook of this highest good for the strengthening of body and soul.
 
-<!-- lines 5389-5411 -->
+<!-- lines 5389-5396 -->
 On the 21st the wife of the man who died yesterday and was buried today came and said that as long as he could speak he had asked Jesus Christ for mercy, and had charged her to go to us after his death and ask us to pray Jesus Christ for him, that he might be gracious to his poor soul.
 
+<!-- lines 5396-5411 -->
 In the afternoon a sick woman sent to ask that one of us would come to her; she longed very much for it. Brother Kühnel went to her. She said that she had had a very great longing to hear God's word, and had not been able to bear it any longer at her place. Now she was here, and had heard his word twice in the meeting; but she had had to sit far off outside the door and could not understand everything. What she had felt at it, however, she could not put into words. Now she asked Jesus Christ for mercy. She came here only a short time ago.
 
 <!-- lines 5411-5418 -->
 On the 22nd some 30 women went to the farmers to weed the wheat. For this work each gets a shilling a day and food. But they are so much in debt to the farmers that they get no money for it; it only serves to reduce their debt, so that when they come home they have not a mouthful to eat.
 
-<!-- lines 5418-5454 -->
+<!-- lines 5418-5446 -->
 On the 23rd a couple more women came, and a child too, who complained of the unrest of their hearts. Another woman came who arrived here not long ago. She and her husband had lived a good day's journey on horseback from here, and had been working for a farmer. When their time was up, he had asked the farmer [leave] to go away from him and move to us, and to pick out his cattle, which ran with the farmer's; and he had been given leave to do so. When the Hottentot afterwards had picked out his cattle and wanted to take leave of the farmer [12], the farmer was at his other place. So the Hottentot drove his cattle off and took the road to us. When the farmer learned of it, he became so angry that he sent 3 Christian men after the Hottentot, each with a flintlock [13], and had him told that if he did not turn back at once they would shoot him down. What could the poor Hottentot do but obey? Then the farmer told him that because he had done this he must now serve him another year. The woman now lamented to us that she had nothing to live on. We told her that we could neither help nor advise her in this case; she must go to Baas Teunis and ask him for advice.
 
+<!-- lines 5446-5454 -->
 This is how the farmers live with the poor Hottentots. Those who still have some cattle must run away if they want to leave the farmers, and leave cattle and wages behind in running, unless they want to get a beating on top of it. It has [happened] more than once [that when they asked for their wages they] got a load of blows instead of wages [14]; and a Hottentot dare not contradict a Christian.
 
 <!-- lines 5455-5462 -->
 Since in this time we had thought and spoken much about Mr Schönberg's letter, and about everything we have heard here, of which we have already made mention, we resolved that one of us should undertake the journey to the Cape, and indeed as soon as possible; and this fell to Brother Schwinn, in company with a Hottentot.
 
-<!-- lines 5462-5485 -->
+<!-- lines 5462-5474 -->
 On the 26th towards evening [those] who had gone out to buy sheep for us [came] home without having done their business [15]. Baas Teunis let us know that they had been sold too dear. That the price of sheep, indeed of all cattle, is now rising so high comes from the continued troubles with the Kaffers, who take away or kill all the cattle of the farmers living near their borders. It seems that we shall get no sheep.
 
+<!-- lines 5474-5485 -->
 3 more children came to school. Since the school, that of the women as well as that of the children, is so large (for in each there are about 60), we have appointed a woman in the women's school and a girl in the children's, and this arrangement is going very well. The men's school consists of 25 who are here at present; [the others are] at the Cape on guard [16]. There are still very many men and women who are too old to learn; these attend the meetings diligently. Some, women as well as children, are now beginning to read quite nicely.
 
-<!-- lines 5486-5511 -->
+<!-- lines 5486-5508 -->
 On the 27th we resolved that Brother Schwinn should set out on the journey to the Cape tomorrow, if the weather allowed (for today it was rainy), and take this account with him, in the hope that a ship would soon leave for Europe. We wish that this, and what we have already sent you, dear brothers, may have come into your hands. For our part we look out with longing for letters from you. How are the brothers and sisters at Neuwied, and the dear congregation at Zeist? According to the rumours one hears here, things must look dark in Europe. Now, dear brothers, from these diaries you will see that the work of God is still going on in blessing until now. We commend it, and ourselves too, to the prayers and remembrance of all the congregations before our dear Lord.
 
+<!-- lines 5509-5511 -->
 Hendr. Marsveld, Dan. Schwinn, Joh. Chr. Kühnel
 
 ## Notes

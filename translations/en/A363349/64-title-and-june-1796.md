@@ -17,18 +17,22 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column. There is no German diary for these months in this repository and no second copy in the Dutch file, so lost lines are marked [...] and explained in the notes. This diary is earlier than the one before it in the file (entries 57 to 63), which continues it from 5 November 1796. The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 16162-16169 -->
+<!-- lines 16162-16162 -->
 -4 [1]
 
+<!-- lines 16163-16164 -->
 No 1. B. 1797.
 
+<!-- lines 16165-16168 -->
 The Cape diary from 25 June to 1 Nov. 1796.
 
+<!-- lines 16169-16169 -->
 (Copy B.)
 
-<!-- lines 16172-16183 -->
+<!-- lines 16172-16177 -->
 Diary of the brethren among the Hottentots at Baviaanskloof, from 25 June to 1 Nov. 1796.
 
+<!-- lines 16178-16183 -->
 (The last reports communicated went only as far as March. Since then those of the following 4 months seem to have been lost. In this period the building of their church was completed.) [2]
 
 <!-- lines 16184-16189 -->

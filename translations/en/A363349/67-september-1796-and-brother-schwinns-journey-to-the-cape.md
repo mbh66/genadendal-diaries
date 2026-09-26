@@ -23,9 +23,10 @@ On 1 Sept. a woman and a young girl received the bath of Holy Baptism. The 6th w
 <!-- lines 16464-16475 -->
 For a good while we had had a carpenter from the Cape at work, who is a slave; now we had to see to it that he could get home again. Since nobody would take him along, we hired a wagon for him, and decided that Brother Schwinn should travel with him to buy one thing and another that we cannot get here. He left on the 12th, and took our diary with him, in the hope of finding an opportunity to send it on to Europe.
 
-<!-- lines 16476-16483 -->
+<!-- lines 16476-16482 -->
 Our little congregation gathered from among the Hottentots consists in this year 1796 of 12 communicants; 8 who are being prepared for Communion; 22 baptised who do not yet go to Communion; 8 baptised children; 26 who are being prepared for baptism; so of 76 souls [2].
 
+<!-- lines 16483-16483 -->
 The diary goes on as follows [3].
 
 <!-- lines 16484-16497 -->
@@ -60,7 +61,7 @@ On the 25th, just as the meeting was about to begin, a slave woman of Mr Morgel'
 
 ## Notes
 
-1. *Br: Reichel, Latrobe, en Wollin*: see Reichel and Latrobe in the glossary; Brother Wollin is not identified.
+1. *Br: Reichel, Latrobe, en Wollin*: see Johann Friedrich Reichel and Latrobe in the glossary; Brother Wollin is not identified.
 2. 12 + 8 + 22 + 8 + 26 = 76, which agrees. These figures were written for the diary that Brother Schwinn took to the Cape on 12 September; the figures at the end of the year (entry 58) are higher.
 3. *Verder luidt het Dagverhaal, als volgt*: the copyist's words. The diary was evidently sent off in two parts, the first ending with Brother Schwinn's departure on 12 September and the figures above. Line 16485 is empty in the transcription and loses no text.
 4. *den Fiscaal Reinfeld*: the Fiscal Reinveld (see Fiscal van Ryneveld in the glossary).

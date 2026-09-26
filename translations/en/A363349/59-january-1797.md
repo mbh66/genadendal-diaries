@@ -17,9 +17,10 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column. There is no German diary for these months in this repository and no second copy in the Dutch file, so lost lines are marked [...] and explained in the notes. The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 15737-15750 -->
+<!-- lines 15737-15737 -->
 1797.
 
+<!-- lines 15738-15750 -->
 On 1 Jan. there was preaching in the forenoon, on which occasion the hall could hold the people no more than on the evening before. When the visitors had left, we held a special meeting with our baptised, in which we worshipped our Lord. With the beginning of this year we made the first trial of holding societies with the baptised adults and with the communicants, in the hope that the Saviour will bless this arrangement; as it has also shown itself since [1].
 
 <!-- lines 15751-15781 -->

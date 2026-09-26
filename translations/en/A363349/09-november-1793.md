@@ -17,42 +17,52 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column and against the German diary of the same months (A363595). The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 3426-3451 -->
+<!-- lines 3426-3432 -->
 On 1 November they [Andreas and his companion] attended the children's instruction, and during their singing the tears rolled down the cheeks of Mr Andreas's travelling companion. Our children have now properly learned 22 verses to 10 tunes [1]. Towards evening these visitors left again.
 
+<!-- lines 3432-3437 -->
 On the 2nd Brother Schwinn had an attack of fever, which gripped him fairly hard; but on the 3rd he was better again. On the 6th he and a Hottentot experienced a special preservation while they were riding somewhere: their cart turned upside down, and they came under it, but did themselves no harm.
 
+<!-- lines 3437-3451 -->
 On a certain occasion [2] Brother Kühnel got to know a farmer who asked him to take a young man into our school to teach him to read, and he offered 50 Rixdollars for it at once. He himself could not read a letter. Brother Kühnel told him that we were here only for the Hottentots, to preach the Gospel to them and instruct them; they [the colonists] had to turn to the Cape and look there for ministers and schoolmasters. He pressed his request hard, and it was painful that it had to be refused him. He said further: "I cannot read God's word, and where is there a church I could go to, to hear it?" For in this wide part of Africa, apart from Cape Town, one finds only 4 churches.
 
-<!-- lines 3451-3501 -->
+<!-- lines 3451-3465 -->
 On the 11th we held our conference with a view to the 13th [3], and resolved to celebrate this day solemnly with our Hottentot congregation, as we do in general all the special festival days of the congregation. At the same time a person was chosen to receive holy baptism on this day. On the 12th we had her called. To the question how she was, she said very contentedly that she had wanted to come to us yesterday to tell us her dream, according to which she would be baptised. The question whether it was then her whole mind to live only for the Saviour and to renounce everything that displeases him, she answered with more than one yes.
 
+<!-- lines 3465-3501 -->
 On the 13th we had our morning blessing early in the morning; at 10 o'clock baptism was administered to our present sister Rahel [4]; at 2 o'clock was a lovefeast with our 7 baptised; and in the evening we had another special meeting for our binding together. All 3 of us must testify that hardly ever in our lives have we enjoyed the nearness of the Saviour so feelingly as on this day. At the administering of baptism, at which many were present, all burst into tears. At the lovefeast our sisters were given an idea of this festival, and for tears they could not declare enough how great their gratitude was that they could now believe that Jesus Christ was their Lord and Saviour too. Afterwards they each declared individually that they had felt his love powerfully today, and that their hearts had become truly alive. They also wanted to pray to him heartily that he would [keep] them with himself [and in his wounds, and ground them ever more firmly in his] suffering and dying [5]. These were their own expressions. We have often wished that our dear brothers and sisters could see this little congregation and perceive the feeling that prevails in our meetings! What shall we poor ones say! We have not words enough to express how we feel. Our prayer to our Saviour and the Chief Lord of his congregation is that as the good Shepherd he would ground these sheep ever more firmly on his suffering and dying, as they themselves ask, and gather more and more, so that his name may be glorified among this nation too.
 
-<!-- lines 3501-3532 -->
+<!-- lines 3501-3516 -->
 On the 14th the speaking with the baptised was very blessed. They were still full of the blessing of the day before, and could not express themselves enough about it. Some said that they had prayed heartily to the dear Saviour to take them into his protection against the world and against Satan, so that they might never again turn away from him and his wounds. "For," they said, "we are too weak [6] to withstand Satan, but the Saviour will and can help us." Old Lena was much cheered that the Saviour had so heartily taken her up again, and had now given her so many sisters too. She also declared her wish that her children, who are still wandering on the wrong road, might be brought to turn back.
 
+<!-- lines 3516-3525 -->
 On the 18th [7], early in the morning, as soon as we opened our house, an old Hottentot came and said that for the unrest of his heart he could no longer put off speaking with us, for he longed from his heart to become a child of God too. As soon as he had gone, another came with the same longing. The administering of baptism has made a great impression.
 
+<!-- lines 3525-3532 -->
 In our conference on the 16th we had confidence to accept our Martha as a candidate for Communion. She is more experienced in the truths of salvation than the others, because she served for a considerable time in Cape Town with the late minister [van] Lier. The husband of our Anna Maria also came among the candidates for baptism.
 
-<!-- lines 3532-3561 -->
+<!-- lines 3532-3559 -->
 On the 17th Andres Otto [8], a well-to-do man living 3 hours from here on horseback, came. He seems to be our friend, and offered to serve us wherever it would be possible for him. After the sermon he declared that he had not imagined that the Hottentots were so eager for God's word. "Let someone come into our church," he said, "and see whether a single tear will be shed; the minister may preach as well as he likes. And here, here one tear pushes the other on." He also expressed his wish that the Gospel might likewise be preached to the so-called Bushmen [9]: they would certainly be converted, and this would be of great use to the whole country. "I know them well," he went on, "for I lived close to them for 9 years. If one deals with them properly, there is no need to fear them. That they are otherwise such dangerous people, the Christians have themselves to thank for." This man has a brother in that region, which is 18 days from here on horseback and a good four weeks with a wagon, and he intends to travel there next year. He offered to take one of us with him. We could give no definite answer to this.
 
+<!-- lines 3559-3561 -->
 On the 18th an old Hottentot lamented greatly the unrest of his heart.
 
 <!-- lines 3561-3576 -->
 Today 5 men came back from the Cape with leave for a month. Baas Teunis, who had been at the Cape, sent us word that one of us should come to him, as he had something to tell us. At this Brother Kühnel [went to him] on the 19th. [One matter was that at the Cape he had heard] much about our bell [10], and now he wanted to question us about it. He had been told that we must not ring it without permission from the authorities, for at the Cape even the Lutheran church may not have bells [11]. The other matter was that he could not take the building of our church upon himself. The reason for this was that the post was to be sold or leased, and then he must leave. So nothing will come of our building.
 
-<!-- lines 3576-3614 -->
+<!-- lines 3576-3582 -->
 On the 23rd there was a great stir among the children in the children's meeting, so that few eyes stayed dry. There have always been some who seemed to be touched; this time, however, it was general.
 
+<!-- lines 3583-3593 -->
 On the 24th there were more hearers in the sermon than there had ever been; many even come from far away. Every day men as well as women come to tell us that they long from their hearts for the forgiveness of their sins. On the 26th 3 came, but each separately, and said that they had indeed been afraid of hell, but now they believed that they would not come into it, and they felt so well in their hearts when the suffering of Jesus was spoken of.
 
+<!-- lines 3593-3595 -->
 On the 27th the candidates for baptism were spoken with, and some expressed themselves with much feeling.
 
+<!-- lines 3595-3604 -->
 On the 28th we considered in our conference how we could get more room; for since our living room is at the same time our church and school, we can leave nothing standing in it, and all our things must be taken into our little bedroom. We resolved to build a little house ourselves, as well as we could, and that of clay in the manner of the fatherland [12]. We made a beginning with this work today.
 
+<!-- lines 3604-3614 -->
 On the 29th most of the Hottentots, and the bigger children too, moved away from here for a time to work for the farmers during the harvest. None of ours went away gladly, and we let them go with regret, because they are now exposed to many dangers. We could not prevent it, however; the state of this country brings it with it.
 
 ## Notes

@@ -17,16 +17,19 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column. There is no German diary for these months in this repository and no second copy in the Dutch file, so lost lines are marked [...] and explained in the notes. The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 15491-15499 -->
+<!-- lines 15491-15491 -->
 N. XII. A. 1797 [1].
 
+<!-- lines 15492-15497 -->
 Diary of the mission among the Hottentots, from Nov. 1796 to 19 May 1797.
 
+<!-- lines 15498-15499 -->
 (Copy 3.) te Bl. [2]
 
-<!-- lines 15501-15529 -->
+<!-- lines 15501-15505 -->
 Diary of the mission among the Hottentots near the Cape of Good Hope, from November 1796 to 19 May 97.
 
+<!-- lines 15506-15529 -->
 On 5 Nov. 1796 the overseer of the warm bath paid us a visit with a party from the Cape, and shortly after Mr Wolfrum arrived with a second party, also from there [3]. These two together made up a number of 16 persons, who stayed the night with us and attended the Sunday meetings the next day; on which occasion they wondered greatly at the quiet behaviour and attentiveness of the Hottentots. We learned from them that we were to expect many more visitors from the Cape; which, however, was no pleasant news to us: for the visitors from there always stay overnight with us, and have a great many slaves, men and women, in their train; so that we often do not know how we are to get them all under a roof; though the trouble of this has been somewhat eased by the two rooms that we have built on to our church.
 
 <!-- lines 15530-15545 -->

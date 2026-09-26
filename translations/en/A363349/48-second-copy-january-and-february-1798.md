@@ -38,7 +38,7 @@ On 3 February we celebrated Holy Communion, which two sisters enjoyed for the fi
 1. Perhaps John Barrow, private secretary to Governor Macartney; see entry 41, note 2.
 2. *Hy zoo wel als anderen roemden onze landstreek, maar wy met voordeel eene tweede plaats voor ons Zendelingſchap zouden kunnen aanleggen*: the sentence does not hold together; "praised our district" does not fit what follows. The first copy (lines 12852 to 12858) is also garbled (*aan den ons eene landſtreek, waar wÿ*); together they suggest "pointed out to us a district where we could with advantage lay out a second place for our mission" (entry 41, note 3). To be checked against the images of both copies.
 3. *dat my van de Gebroeders Morgel*: *my* for *wy*. The first copy (line 12866) has "a couple of Hottentot women". See Morgel in the glossary.
-4. *Loofingen*: a misreading of *Looſingen*, the Daily Texts, as the first copy (line 12880) has it. *Br. Joſephs kindere⸗den*: the addresses to children of August Gottlieb Spangenberg; see Brother Joseph in the glossary.
+4. *Loofingen*: a misreading of *Looſingen*, the Daily Texts, as the first copy (line 12880) has it. *Br. Joſephs kindere⸗den*: the addresses to children of August Gottlieb Spangenberg; see August Gottlieb Spangenberg in the glossary.
 5. *den 26*; the first copy (line 12894) has "the 24th".
 6. Line 13652 is missing. The transcription runs *en ook 15 van onze ſchaapen om 't leven* / *Den 30*. The first copy (line 12903) has *om 't leven kwamen*; the lost line probably held only *kwamen*.
 7. See entry 41, note 8.

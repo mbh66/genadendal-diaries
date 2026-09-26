@@ -26,15 +26,17 @@ On the 18th, when some children had not behaved quietly or orderly in the school
 <!-- lines 16133-16145 -->
 The next day, the 19th, they came to school early, and first asked forgiveness for their disobedience, and promised to offer themselves wholly to the Saviour from now on. Each child wanted to make its request and promise separately as well; which, however, could not be done because of their number [3]. Brother Kühnel then took them together, and spoke with them lovingly and earnestly, and assured them that he had forgiven them [4].
 
-<!-- lines 16146-16159 -->
+<!-- lines 16146-16151 -->
 With this we close our present diary, and commend ourselves to the prayers and remembrance of our dear brothers and sisters before the Saviour, and likewise our dear congregation from among the Hottentots, which at present consists of:
 
+<!-- lines 16152-16156 -->
 17 communicants
 9 candidates for Communion
 26 baptised adults
 10 baptised children, and
 53 candidates for baptism, in all
 
+<!-- lines 16157-16159 -->
 112 persons [5]. Two excluded persons are not counted.
 
 ## Notes

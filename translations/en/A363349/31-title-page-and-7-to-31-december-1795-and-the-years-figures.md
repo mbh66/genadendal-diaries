@@ -54,11 +54,12 @@ On the 30th a Hottentot captain arrived here with 8 Hottentots. They live a good
 On the 31st, towards midnight, we had a general meeting to close the year, to which the Hottentots came running from all sides. Brother Kühnel reminded them of the many benefits of God they had enjoyed this year, and urged them to praise and thank God for them, whereupon we began the new year with prayer and supplication [12]. What feeling prevailed in this meeting we are not able to describe. The prayer was broken off by loud weeping.
 
 <!-- lines 11681-11704 -->
-Now, dear Brothers and Sisters! what [shall we say of this] year! [13] We lack words to express ourselves. The devil has raged horribly, and he has even succeeded in making us leave our sheep for a time. What we went through then we are not able to describe. But who would have thought that the Saviour would have changed everything so quickly, yes, so changed it that we now see a wall of our church already above the ground! When we behold the mighty work of grace in the hearts of these poor people, we stand ashamed and rapt in wonder. For some time new Hottentots have come almost every day, so that their number is growing noticeably.
+Now, dear brothers and sisters! what [shall we say of this] year! [13] We lack words to express ourselves. The devil has raged horribly, and he has even succeeded in making us leave our sheep for a time. What we went through then we are not able to describe. But who would have thought that the Saviour would have changed everything so quickly, yes, so changed it that we now see a wall of our church already above the ground! When we behold the mighty work of grace in the hearts of these poor people, we stand ashamed and rapt in wonder. For some time new Hottentots have come almost every day, so that their number is growing noticeably.
 
-<!-- lines 11705-11723 -->
+<!-- lines 11705-11714 -->
 This year 20 adults and 4 children have been baptised; 5 persons have come to Communion, and 4 have become candidates for it. 24 have come among the candidates for baptism. One sister has died. At the end of this year our little congregation consists of [14]:
 
+<!-- lines 11715-11723 -->
 9 communicants
 1 confirmand
 3 candidates for Communion

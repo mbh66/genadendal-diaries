@@ -17,32 +17,40 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column and against the German diary of the same months (A363595). The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 3326-3347 -->
+<!-- lines 3326-3336 -->
 On 4 October young Teunis sent us word that we should fetch the bell [1] he had brought for us from the Cape. We need it very much, because our makeshift bell, which we made of thin copper, cannot do its proper service because of the distance of many of the huts. Our friends at the Cape had long been set on getting us one, and at last an opportunity for it came at a public auction.
 
+<!-- lines 3336-3337 -->
 On the 5th another person came among the candidates for baptism.
 
+<!-- lines 3338-3343 -->
 On the 6th the sermon was very well attended, which is almost always the case, so that the room for it in our house is always becoming too small.
 
+<!-- lines 3344-3347 -->
 On the 8th the bell arrived here, to the great joy of the Hottentots. About this time we had much work in our garden. It is now spring here, and everything is in full bloom [2].
 
 <!-- lines 3348-3373 -->
 On the 9th our baptised were spoken with [3]. We can say that all of them take it much to heart to live for the Saviour; we only wished that they could express themselves more in words. Today Brother Kühnel went to Baas Teunis, among other things to speak with him about building a church. For the room for it in our house has long been too small, and not only we, but also the friends at the Cape, and Baas Teunis as well, see the necessity of building a church in which school would also be held. All have promised to help with it as far as they can, and believe moreover that the Hottentots should be encouraged to do the handwork without receiving money for it. Baas Teunis has undertaken to supply [the timber] for it [4]. We trust that in this way it can be done without great cost; but we will surely need Baas Teunis's authority to drive them to work, since otherwise not much can be expected, because of their laziness. Brother Kühnel spoke with him about this, and he promised that he would have them called to him and would speak with them himself.
 
-<!-- lines 3373-3395 -->
+<!-- lines 3373-3374 -->
 On the 13th a person was accepted among the candidates for baptism.
 
+<!-- lines 3374-3378 -->
 On the 15th Brother Kühnel rode to young Teunis, to be present at the division of a flock of 400 goats, of which 106 belong to us; these we received in the following days.
 
+<!-- lines 3378-3387 -->
 On the 18th two [women] lamented to us the unrest of their hearts; we pointed them to the Saviour. One had first spoken about it with a baptised woman, who announced her to us. In our conference held in these days a person was accepted among the candidates for baptism. About this time we had trouble on account of some children who go to school with us but were now being fetched back by the farmers against their parents' will; we could not achieve much, however.
 
+<!-- lines 3387-3395 -->
 On the 23rd the candidates for baptism were spoken with, and we found that they are concerned from their hearts to be saved. One said that she had not believed she was as bad as she now feels herself to be, and for that reason she prayed the more to the Saviour. 3 others also revealed the unrest of their hearts. But they lack words all too much to describe this state of their hearts.
 
-<!-- lines 3396-3426 -->
+<!-- lines 3396-3410 -->
 On the 25th two farmers visited us, one of whom had not been here before, and brought us a packet of letters. One was from Brother Reichel in Berthelsdorf, and the other from brethren in Herrnhut [5]. What joy [this was], no one can imagine unless he has himself been at so remote a post. Since no ships had arrived for so long, not only we but also the government at the Cape believed that things must look bad in the fatherland. But in these letters we found much cause to thank the Saviour for his gracious turning away of so many dangers.
 
+<!-- lines 3410-3416 -->
 On the 26th another came among the candidates for baptism. We resolved to read to the baptised every week something from the history of Greenland [6], so that they too might become acquainted with other mission stations among the heathen. On the 28th a beginning was made, and with the letters of the Greenlanders, which caused a great stir.
 
+<!-- lines 3416-3426 -->
 On the 31st we had a visit from a true friend from Cape Town, namely the watchmaker Andreas [7], with one of his relatives. This man has already done much for us, and is also one of those who press most for the building of a church. He said that although he could not be away from home more than 8 days, he could not put off any longer coming to see how things were with us here. There are many more at the Cape who would gladly visit us if their circumstances would allow it.
 
 ## Notes

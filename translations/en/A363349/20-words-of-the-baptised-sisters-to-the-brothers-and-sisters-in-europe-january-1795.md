@@ -20,34 +20,40 @@ licence: CC BY 4.0
 <!-- lines 8182-8186 -->
 Several of our sisters have asked whether we were not writing to our brothers and sisters in the fatherland, and asked us to write some words from them, which follow here as they dictated them to us [1].
 
-<!-- lines 8187-8203 -->
+<!-- lines 8187-8187 -->
 Sara.
 
+<!-- lines 8188-8203 -->
 "I cannot thank our dear Saviour enough, nor the dear brothers and sisters, that they have sent us teachers, and that I now know what is good and bad; that brothers have come to so poor a people to make us acquainted with the dear Saviour, and that I now know and feel that the dear Saviour has redeemed me too. A thousand thanks be brought to him for it. I cannot thank him enough that we have received teachers; otherwise we would not have come to know him. My prayer is that I may not grieve him, but live for him until my blessed end. Many thousand greetings to all dear brothers and sisters."
 
-<!-- lines 8204-8223 -->
+<!-- lines 8204-8204 -->
 Elisabeth.
 
+<!-- lines 8205-8223 -->
 "I thank my dear Saviour that I now have such thoughts as never before, and also a quite different feeling in my heart. Before, I always had bad thoughts; now my thoughts are only on the Saviour, and I feel his peace in my heart. Oh, I cannot thank him enough day and night. When I wake in the morning, my prayer is that he would always give me a thankful heart towards him, until I come to him myself. Nor can I thank him enough that we have teachers; and you, dear brothers and sisters, I thank from my heart for their keep and maintenance, for we can give them nothing. I also long very much to see some sisters who live in the fatherland; but if it cannot be here, I shall get to see them with our dear Saviour, for I am already old. I greet you many thousand times."
 
-<!-- lines 8225-8250 -->
+<!-- lines 8225-8225 -->
 Martha.
 
+<!-- lines 8226-8250 -->
 "I, who am not worthy to call you brothers and sisters, cannot give thanks enough that I have heard the word of our dear Lord, and still hear it daily, of which I never before in my life knew or heard anything. I cannot thank the dear Saviour enough for it in eternity! And to you, dear brothers and sisters, we cannot be thankful enough that you have sent us teachers who proclaim to us the death of Jesus. If they had not come, my poor soul would have had to be lost for ever. And that you support them, for we are all too poor; we can give them nothing. Nor can I [thank] the dear Saviour [enough that I have already often] received Holy Communion [2], which great grace I count myself not worthy of. My prayer to him is that he would keep me with himself until my blessed end, and take from me everything that grieves him, so that I may be a true child of God. I also have a great longing that I might have the good fortune to see sisters here; I long for that very much! I greet all brothers and sisters, and am the poorest and most unworthy. Martha."
 
-<!-- lines 8252-8268 -->
+<!-- lines 8252-8252 -->
 Anna Maria.
 
+<!-- lines 8253-8268 -->
 "I would gladly have something written to you, my dear brothers and sisters in the fatherland, but what my heart wishes I cannot express well in the Dutch language [3]. I am not thankful enough to our dear Lord that he has sent us teachers, and that I now know that I have a Saviour, and have a feeling in my heart that I never felt before; for I have committed many sins, and knew [4] nothing of our dear Father. Day and night I thank him for his great mercy. And you too I thank many thousand times that you have sent us teachers; otherwise I would still know nothing of our dear Father and Saviour. I greet you many thousand times."
 
-<!-- lines 8269-8282 -->
+<!-- lines 8269-8269 -->
 Eva.
 
+<!-- lines 8270-8282 -->
 "Many, yes many greetings to you all, dear brothers and sisters! I cannot thank the dear Saviour enough for what I now feel in my heart and did not feel before, namely his peace and his love, so that now nothing would be dearer to me than to go to him. A thousand thanks be brought to him for it. Nor can I thank you enough that you have sent us teachers and also maintain them with us, for which I say many thousand thanks to you."
 
-<!-- lines 8283-8292 -->
+<!-- lines 8283-8283 -->
 Bedgen.
 
+<!-- lines 8284-8292 -->
 "My mind is this: to live wholly for the Saviour in this world, and I pray him to make me a true child of God. My daily prayer is that I might be obedient to my teachers. I also thank you from my heart for them, and also that you give them their maintenance with us. A thousand greetings to all brothers and sisters in the fatherland."
 
 ## Notes
