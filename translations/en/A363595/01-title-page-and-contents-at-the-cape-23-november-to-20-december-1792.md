@@ -17,9 +17,10 @@ licence: CC BY 4.0
 
 > Machine translation, not yet checked by a reader of the German. Translated from the normalised German and checked against the diplomatic transcription. The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
-<!-- lines 00002-00027 -->
+<!-- lines 00002-00010 -->
 [Cover and archive labels:] ...tten [1], 1792. 1795. RIJKSARCHIEF IN UTRECHT. ARCHIEF EVANG. BROEDERGEM. ZEIST. Z. Z. G. 1143 [2].
 
+<!-- lines 00012-00027 -->
 Contents: I. Diary of the 3 Brethren Hendrik Marsveld, Daniel Schwinn and Joh. Christian Kühnel, 23.11.1792 to 31.3.1793, pages 1 to 112. II. Diary of the 3 Brethren Marsveld, Schwinn and Kühnel, 1.4. to 31.8.1793, [pages] 1 to 132. III. Diary of the 3 Brethren named above, 1.9.1793 to 9.4.1794, [pages] 1 to 90. IV. Diary of the three Brethren named above for the month of June 1794, [pages] 1 to 24. V. [The same] for the month of July 1794, [pages] (1 to 10). (Duplicate or reworking of V.) VI. EVANGELISCHE BROEDERGEMEENTE ZEIST. ARCHIEF [3].
 
 <!-- lines 00029-00035 -->
