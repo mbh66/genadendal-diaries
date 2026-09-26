@@ -23,7 +23,7 @@ licence: CC BY 4.0
 From the report on the Hottentot congregation, namely at Baviaanskloof, from December 1804 to May 1805.
 
 <!-- lines 1709-1713 -->
-Our Br. Rose's illness, which had lasted over a month until then, struck him down again at the beginning of December and caused a swelling [1], from which the patient suffered much pain.
+Our Brother Rose's illness, which had lasted over a month until then, struck him down again at the beginning of December and caused a swelling [1], from which the patient suffered much pain.
 
 <!-- lines 1714-1725 -->
 Since a large part of our Hottentots had gone some time before to the neighbouring farmers to help with the harvest, we had to suspend the schools and some of the weekly meetings. The heat reached an extraordinary degree this month. At the same time there was such a drought that in several places no water was to be had for man or beast; it even came to the point that water had to be fetched from an hour away, from our own Hottentots [2], before a drop could be had.
@@ -41,7 +41,7 @@ Another time one of us came to a widow lying at the point of death, and since sh
 On Christmas Day many Hottentots from elsewhere and black slaves were present at the sermon. Some of our Christian neighbours were also with us for this festival. This came about because the preacher of Swellendam, whose church had been badly damaged when a powder magazine blew up and has not yet been fully repaired, was travelling round the country holding services in various places, including near us, and on that occasion many had their children baptised. All the more of our Christian fellow inhabitants came to us for the end of the year, among them several of our nearest neighbours who had never been here before. But large as the crowd was that gathered here, there was still much quiet and good order in the place and in the church.
 
 <!-- lines 1793-1805 -->
-In the year 1804, 14 adults and 15 children were baptised. 9 baptised persons were admitted to Holy Communion. Of the baptised, 13 persons went home [5]. At the end of the year 1804 our Hottentot congregation consisted of 245 baptised adults, of whom 94 are communicants, 129 baptised children and 99 candidates for baptism, 473 persons in all [6]. Altogether, according to a count taken in December, there lived here in 217 houses 186 men, 306 women and 601 children, 1093 persons in all, not counting the European Brethren and Sisters.
+In the year 1804, 14 adults and 15 children were baptised. 9 baptised persons were admitted to Holy Communion. Of the baptised, 13 persons went home [5]. At the end of the year 1804 our Hottentot congregation consisted of 245 baptised adults, of whom 94 are communicants, 129 baptised children and 99 candidates for baptism, 473 persons in all [6]. Altogether, according to a count taken in December, there lived here in 217 houses 186 men, 306 women and 601 children, 1093 persons in all, not counting the European brothers and sisters.
 
 ## Notes
 

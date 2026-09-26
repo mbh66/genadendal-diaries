@@ -24,13 +24,13 @@ From time to time transports of newly engaged Hottentots passed through here. On
 About this time our gardeners had already been busy picking the peaches, and although we did not get as many this year as usual, we still have reason to thank God for his blessing, for in many neighbouring gardens the fruit was spoiled by worms or scorched by the sun and lost.
 
 <!-- lines 1889-1906 -->
-In these days an unbaptised sick Hottentot woman sent for a couple of the Brethren and Sisters in the night. Asked what she wanted, the sick woman said: "I shall go to the dear Saviour tonight. I am not afraid to appear before him [2], for he has forgiven me all my many sins; so I wish to be reconciled with the Brethren and Sisters." She was urged to stay on this ground of faith and hold fast to the Saviour. Early in the morning she sent word to them that she still felt the same peace in her heart and longed to be united with the Saviour. Soon afterwards, having taken a moving farewell of those present, she gave up her spirit; it was not long before she died.
+In these days an unbaptised sick Hottentot woman sent for a couple of the brothers and sisters in the night. Asked what she wanted, the sick woman said: "I shall go to the dear Saviour tonight. I am not afraid to appear before him [2], for he has forgiven me all my many sins; so I wish to be reconciled with the brothers and sisters." She was urged to stay on this ground of faith and hold fast to the Saviour. Early in the morning she sent word to them that she still felt the same peace in her heart and longed to be united with the Saviour. Soon afterwards, having taken a moving farewell of those present, she gave up her spirit; it was not long before she died.
 
 <!-- lines 1907-1917 -->
-In the middle of February we received letters from Germany and Denmark, several of them more than a year old, and in March the Daily Texts for 1805 came into our hands, though we could not find out how they reached us. The packet containing them was handed over by a farmer and was addressed to Messrs Schmidt and Kaeuser in Cape Town. There was no letter with it, but from the address we recognised the hand of Br. Latterup [3] in Copenhagen.
+In the middle of February we received letters from Germany and Denmark, several of them more than a year old, and in March the Daily Texts for 1805 came into our hands, though we could not find out how they reached us. The packet containing them was handed over by a farmer and was addressed to Messrs Schmidt and Kaeuser in Cape Town. There was no letter with it, but from the address we recognised the hand of Brother Latterup [3] in Copenhagen.
 
 <!-- lines 1918-1923 -->
-To the heartfelt joy of us all, Br. Rose had recovered from his illness so far that on 17 March he could go out for the first time, and on the 23rd could hold Holy Communion in the [4] meeting.
+To the heartfelt joy of us all, Brother Rose had recovered from his illness so far that on 17 March he could go out for the first time, and on the 23rd could hold Holy Communion in the [4] meeting.
 
 <!-- lines 1924-1930 -->
 On the 19th a sister fell asleep who was loved by all for her childlike fellowship with the Saviour and her kindness towards everyone. On her sickbed she was wholly resigned to the will of her Redeemer, and what she said edified all who visited her.
@@ -39,7 +39,7 @@ On the 19th a sister fell asleep who was loved by all for her childlike fellowsh
 We had few visitors from outside during this time, mainly, it seems, because the fields and meadows around us are so burnt by the long drought that the cattle find no more food, and travellers would therefore be in great difficulty.
 
 <!-- lines 1937-1949 -->
-Towards Easter, at Holy Communion, which we held on Maundy Thursday [5], many of our brothers and sisters expressed warmly and sincerely their heartfelt gratitude to the Saviour for giving our Br. Rose back to us, together with what they told us about their state of grace [6]. At the Easter festival a great crowd of people came to us and attended the meetings attentively. On the second day of the feast we had a baptism of 5 adults.
+Towards Easter, at Holy Communion, which we held on Maundy Thursday [5], many of our brothers and sisters expressed warmly and sincerely their heartfelt gratitude to the Saviour for giving our Brother Rose back to us, together with what they told us about their state of grace [6]. At the Easter festival a great crowd of people came to us and attended the meetings attentively. On the second day of the feast we had a baptism of 5 adults.
 
 <!-- lines 1950-1959 -->
 About this time we had a pleasant visit of eight days from the Dutch missionary Erasmus Schmidt, who was on his way, as appointed, to Dr van der Kemp at Bethelsdorp. He had left Holland back in 1802 with four other missionaries bound for Africa, but their ship was captured by the English and taken to America.

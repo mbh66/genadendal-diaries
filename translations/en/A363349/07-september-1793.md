@@ -18,7 +18,7 @@ licence: CC BY 4.0
 > Machine translation, not yet checked by a reader of the Dutch. Translated from the Dutch diplomatic transcription and checked against the German translation in the normalised column and against the German diary of the same months (A363595). The diarists' words for Khoekhoe people ("Hottentots") and Xhosa people ("Kaffers") are kept as they wrote them; see `glossary.csv`. Square brackets mark editorial additions.
 
 <!-- lines 3067-3073 -->
-Diary of the Brethren Hendrik Marsveld, Daniel Schwinn and Johan Christian Kühnel of Baviaanskloof in Africa, running from 1 September 1793 to 9 April 1794 [1].
+Diary of the Brothers Hendrik Marsveld, Daniel Schwinn and Johan Christian Kühnel of Baviaanskloof in Africa, running from 1 September 1793 to 9 April 1794 [1].
 
 <!-- lines 3075-3075 -->
 [On 1 September Brother Schwinn went to the post, to travel from] there with Baas Teunis to Cape Town [2].

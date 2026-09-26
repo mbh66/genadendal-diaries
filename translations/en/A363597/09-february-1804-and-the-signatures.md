@@ -27,7 +27,7 @@ On the 11th we received the very painful news that one of our baptised men had b
 In these days our sisters finished drying the peaches, which had kept them busy for some time. Although the peaches did not do as well this year as in other years, we still have enough for our needs.
 
 <!-- lines 1475-1496 -->
-On the 14th we received a letter from Br. Schreiter in Zeist, and on the 18th one from Br. Satterup [1] in Copenhagen, which enclosed a letter from our dear Brother Carl von Forestier to Br. Rose, together with some other letters from Holstein. Our joy at these letters was very great, and it grew greater still because, through Br. Satterup's kind efforts, we received six text books for this year at the same time. To our sorrow we learned from Br. Forestier's letter that our reports and letters of 1802 and 1803 had not yet reached our Brethren and Sisters in Berthelsdorf.
+On the 14th we received a letter from Brother Schreiter in Zeist, and on the 18th one from Brother Satterup [1] in Copenhagen, which enclosed a letter from our dear Brother Carl von Forestier to Brother Rose, together with some other letters from Holstein. Our joy at these letters was very great, and it grew greater still because, through Brother Satterup's kind efforts, we received six text books for this year at the same time. To our sorrow we learned from Brother Forestier's letter that our reports and letters of 1802 and 1803 had not yet reached our brothers and sisters in Berthelsdorf.
 
 <!-- lines 1496-1505 -->
 With this we close our present report, and commend ourselves and our Hottentot congregation to the loving remembrance and prayers of all our dear Brethren, Sisters and friends before our dear Lord.

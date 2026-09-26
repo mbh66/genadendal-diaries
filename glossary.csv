@@ -5,7 +5,7 @@ Baas,term,Baas,Baas,Dutch and Afrikaans for master or boss; used by a Khoekhoe s
 Heiland,term,Heiland,the Saviour,Standard Moravian name for Christ.,A363597_00031
 Gemeine,term,"Gemeine, Gemeinde, Gemeinlein",congregation,Also used for the whole Moravian Church (Brüdergemeine). Gemeinlein: 'little congregation'.,A363597_00002
 Gemeingnaden,term,Gemeingnaden,graces of the congregation,"The stages of membership and the privileges that go with them: candidate for baptism, baptism, candidate for Communion, Communion.",A363597_00011
-Geschwister,term,Geschwister,brothers and sisters; Brethren and Sisters,Members of the congregation. 'Brethren and Sisters' is used for the European missionaries and the wider Moravian Church.,A363597_00034
+Geschwister,term,Geschwister,brothers and sisters,Members of the congregation; also used for the missionaries and the wider Moravian Church in Europe.,A363597_00034
 Sprechen,term,"Sprechen, gesprochen werden",speaking; to be spoken with,The individual pastoral conversation with each member before Holy Communion.,A363597_00032
 in Jesu Tod getauft,term,in Jesu Tod getauft,baptised into the death of Jesus,"Moravian baptismal formula, after Romans 6:3.",A363597_00061
 Abendmahlsgenosse,term,"Abendmahlsgenosse, Abendmahlsgenossin, Kommunikanten",communicant,,A363597_499
@@ -30,11 +30,11 @@ Roodezand,place,"Roodesand, Roode Zand, Rothensand (A363349)",Roodezand,Present-
 Bethelsdorp,place,Bethelsdorp,Bethelsdorp,"London Missionary Society station of Dr van der Kemp, near present-day Port Elizabeth (Gqeberha).",A363597_1954
 Zeist,place,Zeist,Zeist,Moravian settlement in the Netherlands; the Dutch mission society corresponded from here.,A363597_316
 Berthelsdorf,place,Berthelsdorf,Berthelsdorf,"Seat of the Moravian Unity Elders' Conference, near Herrnhut.",A363597_1495
-Christian Ludwig Rose,person,"Rose, Br. Rose, Bruder Rose",Br. Rose,"Missionary at Baviaanskloof. Died on Saturday 12 October, probably 1805 (A363597 entry 15). His wife appears as Schwester Rosin.",A363597_00022
-Johann Philipp Kohrhammer,person,"Kohrhammer, Kohrhamer, Rohrhammer, Br: J. Z. Kohrhammer, Br: en Zr: Kohrhammer (A363349)",Br. Kohrhammer,"Missionary. Rohrhammer is a likely misreading. In 1797 the Baviaanskloof missionaries learned that he and his wife had been called to the mission; the first Dutch copy of the 1797 reports reads *Br: J. Z. Kohrhammer*, a misreading of *Br: en Zr:* (A363349 entries 36 and 38).",A363597_487
+Christian Ludwig Rose,person,"Rose, Br. Rose, Bruder Rose",Brother Rose,"Missionary at Baviaanskloof. Died on Saturday 12 October, probably 1805 (A363597 entry 15). His wife appears as Schwester Rosin.",A363597_00022
+Johann Philipp Kohrhammer,person,"Kohrhammer, Kohrhamer, Rohrhammer, Br: J. Z. Kohrhammer, Br: en Zr: Kohrhammer (A363349)",Brother Kohrhammer,"Missionary. Rohrhammer is a likely misreading. In 1797 the Baviaanskloof missionaries learned that he and his wife had been called to the mission; the first Dutch copy of the 1797 reports reads *Br: J. Z. Kohrhammer*, a misreading of *Br: en Zr:* (A363349 entries 36 and 38).",A363597_487
 Hendrik Marsveld,person,Marsveld,Hendrik Marsveld,One of the three missionaries who re-founded the mission in 1792.,A363597_1508
 Daniel Schwinn,person,Schwinn,Daniel Schwinn,One of the three missionaries who re-founded the mission in 1792.,A363597_1509
-Johann Christian Kühnel,person,"Kühnel, Joh. Christian Kühnel",Br. Kühnel,One of the three missionaries who re-founded the mission in 1792.,A363597_939
+Johann Christian Kühnel,person,"Kühnel, Joh. Christian Kühnel",Brother Kühnel,One of the three missionaries who re-founded the mission in 1792.,A363597_939
 Magdalena (1804),person,Magdalena,Magdalena,"Baptised as an adult on 5 January 1804, died 19 January 1804. A different woman from Magdalena (Vehettge Tikkuie), baptised by Georg Schmidt. That woman is probably old Lena (see Lena).",A363597_1329
 Petrus Blesier,person,Petrus Blesier,Petrus Blesier,"Member falsely accused of horse theft, August 1803.",A363597_358
 Simeon Rokkers,person,"Simeon Rokkers, Simeon",Simeon Rokkers,Old member; probably the Simeon who died on 5 May 1805.,A363597_1545
@@ -45,7 +45,6 @@ Otto,person,Feldkornett Otto,Field Cornet Otto,"Neighbouring field cornet; his w
 Linde,person,"Feldkornett Linde, Kommandant Linde",Field Cornet Linde,,A363597_632
 Grebe,person,"Feldkornett Grebe, Subleutnant Grebe",Field Cornet Grebe,,A363597_1881
 Johannes van der Kemp,person,Doktor van der Kemp,Dr van der Kemp,London Missionary Society missionary at Bethelsdorp.,A363597_1953
-Jan Paerl,person,,,"Searched for in all four files on 25 September 2026 (diplomatic and normalised, with spelling variants): no mention found. 'Paerlen' in A363349 means beads.",
 Bastard,term,"Bastard, Baſtard, Bastaarden",Bastard(s),"Historical Cape Dutch term for people of mixed descent, especially of European and Khoekhoe parents. Kept where the diarists used it; the translations do not use it in their own voice.",A363596_1002
 Konfirmandin,term,Confirmandin,confirmand,A baptised member being prepared for confirmation and first Communion.,A363596_817
 Liebesmahl,term,"Liebesmahl, Liebes-Mahlzeit",lovefeast,"Moravian service of fellowship with a simple shared meal, singing and prayer.",A363596_847
@@ -77,7 +76,7 @@ Susanna,person,"Suſana, Suſanna, Suſanne",Susanna,Baptised 23 March 1794; con
 Louise,person,"Louise, Louiſe, Luise",Louise,Baptised 25 March 1795; confirmed 2 March 1796.,A363596_318
 Stoffel Grunewald,person,"Stoffel Grunewald, Grunewald",Stoffel Grunewald,Neighbouring farmer.,A363596_128
 Claude,person,"H. Claude, Hr. Claude",Mr Claude,"Bought the land near the mission where young Teunis had his place, 1795. Perhaps Hendrik Cloete (Mr Clüde): the Dutch diary treats Mr Claude as the gentleman of the visit of 18 February 1795, whom it calls Clüde (A363349 entry 23, note 5).",A363596_874
-Metz,person,"Br. Metz, Br. Motz (A363349)",Br. Metz,"Moravian travelling through the Cape on a Danish ship, April 1795. The Dutch diary A363349 has Motz.",A363596_963
+Metz,person,"Br. Metz, Br. Motz (A363349)",Brother Metz,"Moravian travelling through the Cape on a Danish ship, April 1795. The Dutch diary A363349 has Motz.",A363596_963
 Woltersdorf,person,"Schwr. Woltersdorfin, Schw. Woltersdorfs",Sister Woltersdorf,"Moravian travelling through the Cape with her daughters, April 1795.",A363596_963
 Schmidt,person,"Vater Schmidt, H. Schmidt, Mart. Schmidt, M. Schmidt, Martinus Schmidt, Martin Schmidt",Father Schmidt,"Friend of the mission in Cape Town, with whom the brethren lodged. Compare Mrs Schmidt, perhaps his wife.",A363596_1082
 Andreas Otto,person,"Andreas Otto, Feld⸗Corporal Otto",Andreas Otto,"Field corporal of the mission's ward; probably the Field Cornet Otto of A363597. Compare Andreas Otte, superintendent of the warm bath in 1793.",A363595_14609
@@ -95,7 +94,7 @@ Anna Maria,person,"Hanna, Anna Maria",Anna Maria,"Called Hanna before her baptis
 Cupido,person,"Cupido, Jonas",Cupido (Jonas),Baptised by Georg Schmidt with the name Jonas; father of four daughters who were among the first candidates for baptism in 1793.,A363595_4766
 Helperus Ritzema van Lier,person,"Domine van Lier, Prediger van Lier",Domine van Lier,Minister of the Reformed church in Cape Town and friend of the mission; died 21 March 1793.,A363595_00057
 Hendrik Cloete,person,"Clüde, Clude, Eſſu Clude, Hr Clüde, geheimraad Clude, H.r Clude (A363349)",Mr Clüde,"Probably Hendrik Cloete of Groot Constantia, who received the missionaries in December 1792 and visited Baviaanskloof on 18 February 1795, saying he had known the place since Georg Schmidt's time. Perhaps the Mr Claude of A363596.",A363595_00126
-Johan Isaac Rhenius,person,"Befehlshaber, Comandant Reenius, Gezaghebber Rhenius, Commandant Rhenius, Gezaghebber Renius, Heer Reenius (A363349)",the commander; Commandant Reenius,"Acting head of the Cape government in 1792 and 1793, then Gezaghebber (second in the government) under Sluysken; a friend of the mission.",A363595_2606
+Johan Isaac Rhenius,person,"Befehlshaber, Comandant Reenius, Gezaghebber Rhenius, Commandant Rhenius, Gezaghebber Renius, Heer Reenius (A363349)",the commander; Commandant Rhenius,"Acting head of the Cape government in 1792 and 1793, then Gezaghebber (second in the government) under Sluysken; a friend of the mission.",A363595_2606
 Commissioners-General,office,"Comiſſarii, Edle Herren Comiſſarien",the Commissioners,"Sebastiaan Cornelis Nederburgh and Simon Hendrik Frykenius, sent by the Dutch East India Company to reform the Cape government, 1792 to 1793.",A363595_00096
 Johann Gottfried Haensel,person,"Br. Haenſel, Br. Hänſel",Brother Haensel,"Moravian missionary from the Nicobar Islands, at the Cape on his way to Europe in January 1793.",A363595_924
 August Gottlieb Spangenberg,person,"Bruder Joſeph, Br Spangenberg (A363349), Br: Joſephs kinderreden (A363349)",Brother Joseph,"Moravian bishop, known in the Church as Brother Joseph; died 18 September 1792. His addresses to children reached the mission in January 1798 (A363349 entries 41 and 48).",A363595_2902
