@@ -1,6 +1,6 @@
 # Instructions for Claude: Genadendal Diaries
 
-This repository holds machine-readable transcriptions of the Moravian mission diaries of Baviaanskloof (Genadendal), 1792 to 1805, and new English translations made entry by entry. Read `README.md` and `CONTRIBUTING.md` before starting. The owner is Michael (GitHub: mbh66), who is not a programmer: explain Git steps in plain language when you report to him.
+This repository holds machine-readable transcriptions of the Moravian mission diaries of Baviaanskloof (Genadendal), 1792 to 1805, and new English translations made entry by entry. Read `README.md` and `CONTRIBUTING.md` before starting. The owner is Michael (GitHub: mbh66). Explain Git steps in plain language when you report to him.
 
 ## Current state (September 2026)
 

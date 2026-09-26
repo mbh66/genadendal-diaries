@@ -4,7 +4,7 @@ Machine-readable transcriptions of the Moravian mission diaries of Baviaanskloof
 
 The texts come from the edition by Juan Luis Garcés Pérez and Alexander Lasch, *Multilingual working and reading versions of the "Genadendal Diaries" from the Utrecht Archives* (Zenodo, version 0.3, 30 December 2025, [doi:10.5281/zenodo.18095167](https://doi.org/10.5281/zenodo.18095167)), made by the Moravian Knowledge Network team in Dresden from manuscripts held at Het Utrechts Archief. This repository is not part of that edition and has not been reviewed by its makers.
 
-> **Status.** Private working repository. All four files are translated into English, in 127 entries, but every translation is a machine translation that no person has yet checked. Nothing here should be quoted as a finished translation. The doubtful readings that the manuscript images would settle are listed in [`reference/image-checks.md`](reference/image-checks.md).
+> **Status.** Draft translations, open for review. All four files are translated into English, in 127 entries, but every translation is a machine translation that no person has yet checked. Nothing here should be quoted as a finished translation. If you read eighteenth-century German or Dutch, see [CONTRIBUTING.md](CONTRIBUTING.md) for how to check a passage. The doubtful readings that the manuscript images would settle are listed in [`reference/image-checks.md`](reference/image-checks.md).
 
 ## The diaries
 
@@ -81,7 +81,7 @@ The diarists call Khoekhoe people "Hottentots" and Xhosa people "Kaffers". Both 
 
 ## Citing
 
-Cite a passage by file, line ID and release, for example: Genadendal Diaries, A363597, lines 00025–00031 (release v0.1). Always credit the edition by Garcés Pérez and Lasch as the source of the transcriptions. See [CITATION.cff](CITATION.cff).
+Cite a passage by file and line ID, with the address of the repository and the date you consulted it, for example: Genadendal Diaries, A363597, lines 00025–00031, https://github.com/mbh66/genadendal-diaries (consulted 26 September 2026). The translations change as they are reviewed, so the date matters; the front matter of each file gives its review status. Always credit the edition by Garcés Pérez and Lasch as the source of the transcriptions. See [CITATION.cff](CITATION.cff).
 
 ## Credits
 
