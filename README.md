@@ -4,7 +4,7 @@ Machine-readable transcriptions of the Moravian mission diaries of Baviaanskloof
 
 The texts come from the edition by Juan Luis Garcés Pérez and Alexander Lasch, *Multilingual working and reading versions of the "Genadendal Diaries" from the Utrecht Archives* (Zenodo, version 0.3, 30 December 2025, [doi:10.5281/zenodo.18095167](https://doi.org/10.5281/zenodo.18095167)), made by the Moravian Knowledge Network team in Dresden from manuscripts held at Het Utrechts Archief. This repository is not part of that edition and has not been reviewed by its makers.
 
-> **Status.** Private working repository. The first translation (A363597) is a pilot and has not been checked by a person. Nothing here should be quoted as a finished translation.
+> **Status.** Private working repository. All four files are translated into English, in 127 entries, but every translation is a machine translation that no person has yet checked. Nothing here should be quoted as a finished translation. The doubtful readings that the manuscript images would settle are listed in [`reference/image-checks.md`](reference/image-checks.md).
 
 ## The diaries
 
@@ -16,8 +16,8 @@ The diaries are a missionary record, written by the missionaries for their churc
 
 | File | Language of the manuscript | What it covers | PDF pages | Rows |
 | --- | --- | --- | ---: | ---: |
-| A363595 | German | Diary of the three missionaries, November 1792 to 1795 | 202 | 14,904 |
-| A363349 | Dutch | Diaries and reports, April 1793 to 1798; 10 April to 31 August 1794 missing | 204 | 16,455 |
+| A363595 | German | Diary of the three missionaries, November 1792 to February 1795 | 202 | 14,904 |
+| A363349 | Dutch | Diaries and reports, November 1792 to February 1798; 10 April to 31 August 1794 and mid-March to 24 June 1796 missing | 204 | 16,455 |
 | A363596 | German | "Diary of the 3 Brethren at the Cape, 1795–96", from March 1795 | 46 | 3,398 |
 | A363597 | German | Diary May 1803 to February 1804; extract June to November 1804; report December 1804 to May 1805; account of the death and burial of Br. Rose (12 October, probably 1805) | 29 | 2,173 |
 
@@ -32,7 +32,8 @@ data/              one CSV per file, one row per manuscript line
 text/              joined reading texts: diplomatic (as written) and normalised
 translations/en/   new English translations, one Markdown file per diary entry
 glossary.csv       people, places, terms, and the policy on offensive words
-scripts/           extract.py, reading.py, segment.py, translate.py
+reference/         people and places tables made from the glossary; readings to check against the images
+scripts/           extract.py, reading.py, segment.py, translate.py, glossary_tables.py
 CITATION.cff       how to cite this repository and the edition it builds on
 CONTRIBUTING.md    how to check a passage
 SHA256SUMS         checksums of the Zenodo PDFs
