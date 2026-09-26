@@ -15,7 +15,7 @@ This repository holds machine-readable transcriptions of the Moravian mission di
 - All four files are translated: 127 entries, all `machine-translation-unreviewed`. What remains is review by readers of the German and Dutch, and checking the flagged readings against the page images.
 - `reference/image-checks.md` lists the 296 notes marked "To be checked against the image", by file and page image, with what the transcription has and what it probably says. It was built once from the notes and is kept by hand: when a note gains or loses that phrase, add or delete its row, and when a reading is settled, correct the translation and its note and delete the row.
 - `reference/people.md` and `reference/places.md` are generated from `glossary.csv` by `python scripts/glossary_tables.py`. Edit the CSV, never the tables, and run the script after every glossary change.
-- Next: a consistency pass over all 127 files (names and terms against the glossary, and the rule on offensive words in our own voice; A363349 entry 02, note 2 has "the Kaffer River" in a note).
+- A consistency pass over all 127 files (September 2026) brought names into line with `glossary.csv`, gave every paragraph its own line marker, and removed the colonial words from our own voice in the notes. The minister of Roodezand is "the minister Vos" throughout. Its pull request lists the cases left for Michael to decide (among them Rhenius against Reenius, Br. against Brother, and "brothers and sisters" against "Brethren and Sisters" for the Church in Europe); settle those before further passes.
 
 ## How to translate a file
 
