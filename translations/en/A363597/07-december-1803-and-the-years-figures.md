@@ -32,11 +32,13 @@ On the 27th 7 privates and 1 corporal from among our Hottentots in military serv
 <!-- lines 1140-1168 -->
 On the 30th and 31st one party of visitors after another arrived by wagon, on horseback and on foot, to see out the year with us. In both meetings, in which we closed the old year and entered the new, our church was crammed with people, all very quiet and attentive. At the prayer on our knees with which we entered the new year, many tears of thanks and of repentance were shed by strangers and inhabitants alike. This time there were many, especially Christians, who were here for the first time in their lives, several of whom live 3 or 4 days' journey away. Because, as they said themselves, they had heard very different judgements about us, some good and some bad, they had now come to see and hear for themselves how things really were, and they declared themselves entirely satisfied.
 
-<!-- lines 1169-1212 -->
+<!-- lines 1169-1203 -->
 In the year 1803, 24 adults and 14 children, 38 persons in all, received holy baptism; 28 persons became candidates for baptism and 14 persons candidates for Communion. 10 persons were admitted to Holy Communion. In all, 25 children were born, 13 of them to baptised parents. 37 persons died, 16 of them baptised. 2 couples were married. In all, 122 persons came here to live: after discharge from military service, 45 men, who brought 21 women and 25 children with them; and from other places, 31 persons [1]. In all, 57 persons moved away from us: 30 persons took military service again, among them one communicant, 3 baptised and 3 candidates for baptism; 27 persons had to be sent away from here for bad conduct, and among these were 2 communicants, 2 baptised and 6 candidates for baptism.
 
+<!-- lines 1203-1205 -->
 At the end of the year 1803 our little Hottentot congregation consists of:
 
+<!-- lines 1206-1211 -->
 | | |
 | --- | ---: |
 | communicants | 87 |
@@ -46,11 +48,13 @@ At the end of the year 1803 our little Hottentot congregation consists of:
 | candidates for baptism | 88 |
 | **total** | **430** |
 
+<!-- lines 1211-1212 -->
 That is 21 more than at the end of last year.
 
-<!-- lines 1213-1220 -->
+<!-- lines 1213-1215 -->
 According to this year's count, there live here in Baviaanskloof, in 213 houses, altogether:
 
+<!-- lines 1216-1219 -->
 | | |
 | --- | ---: |
 | men | 212 |
@@ -58,6 +62,7 @@ According to this year's count, there live here in Baviaanskloof, in 213 houses,
 | children | 580 |
 | **total** | **1060** |
 
+<!-- lines 1219-1220 -->
 That is 46 more than last year.
 
 ## Notes
